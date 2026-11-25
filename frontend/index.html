@@ -1,0 +1,446 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<style>
+<title>BillTimeGuard AI | Legal Billing Intelligence</title>
+.analytics-panel {
+  margin-bottom: 22px;
+}
+
+.review-box {
+  margin-top: 20px;
+  padding: 17px;
+  background: #f5f8ff;
+  border: 1px solid #dce6fa;
+  border-radius: 12px;
+}
+
+.review-box h3 {
+  margin: 0 0 6px;
+  font-size: 14px;
+  color: #172b4d;
+}
+
+.review-subtitle {
+  margin: 0 0 12px;
+  font-size: 11px;
+  color: #718096;
+}
+
+.review-box ul {
+  margin: 0;
+  padding-left: 20px;
+}
+
+.review-box li {
+  margin: 8px 0;
+  font-size: 12px;
+  color: #43516a;
+  line-height: 1.5;
+}
+
+.review-disclaimer {
+  margin: 12px 0 0;
+  font-size: 10px;
+  color: #8490a3;
+  line-height: 1.5;
+}
+
+.analytics-summary {
+  display: flex;
+  gap: 50px;
+  margin: 20px 0 26px;
+  flex-wrap: wrap;
+}
+
+.analytics-summary div {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
+
+.analytics-summary strong {
+  font-size: 25px;
+  color: #172b4d;
+}
+
+.analytics-summary small {
+  color: #718096;
+  font-size: 12px;
+}
+
+.chart-row {
+  margin: 18px 0;
+}
+
+.chart-label {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 8px;
+  font-size: 13px;
+  color: #475569;
+}
+
+.chart-label strong {
+  color: #172b4d;
+}
+
+.chart-track {
+  height: 11px;
+  background: #edf1f7;
+  border-radius: 20px;
+  overflow: hidden;
+}
+
+.chart-fill {
+  height: 100%;
+  border-radius: 20px;
+  transition: width 0.4s ease;
+}
+
+.normal-fill {
+  background: #22a06b;
+}
+
+.anomaly-fill {
+  background: #e09b36;
+}
+
+.analytics-note {
+  margin-top: 20px;
+  font-size: 11px;
+  color: #8490a3;
+}
+
+:root{--navy:#101d3a;--navy2:#17294d;--blue:#3569df;--blue2:#eaf0ff;--ink:#18243b;--muted:#71809a;--line:#e5eaf2;--bg:#f5f7fb;--white:#fff;--green:#16865b;--greenbg:#e8f7f0;--red:#c34d55;--redbg:#fff0f0;--shadow:0 12px 32px rgba(20,39,77,.07)}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--ink);font-family:Inter,-apple-system,BlinkMacSystemFont,"Segoe UI",Arial,sans-serif}button,input,select{font:inherit}.app{min-height:100vh}.sidebar{position:fixed;inset:0 auto 0 0;width:246px;background:var(--navy);color:#fff;padding:27px 18px;display:flex;flex-direction:column;z-index:5}.brand{font-size:21px;font-weight:800;letter-spacing:-.6px;padding:4px 12px}.brand span{color:#83a8ff}.brand-sub{font-size:10px;letter-spacing:1.5px;color:#a9b8d4;padding:7px 12px 30px}.nav-label{font-size:10px;text-transform:uppercase;letter-spacing:1.5px;color:#8292b1;padding:0 13px 10px}.nav button{display:flex;align-items:center;gap:12px;width:100%;border:0;background:transparent;color:#c4cee0;padding:13px 14px;border-radius:10px;text-align:left;margin:3px 0;cursor:pointer;font-size:13px}.nav button.active,.nav button:hover{background:#24395f;color:#fff}.nav .ico{width:20px;text-align:center;font-size:16px}.sidebar-bottom{margin-top:auto;border-top:1px solid #2b3b5b;padding:18px 12px 0;color:#9eacc6;font-size:11px;line-height:1.6}.api-pill{display:inline-flex;align-items:center;gap:7px;background:#20375d;padding:7px 10px;border-radius:30px;color:#dce7ff;font-size:11px;margin-top:10px}.dot{width:7px;height:7px;border-radius:50%;background:#e0a34b}.dot.online{background:#35ce91;box-shadow:0 0 0 3px #35ce9125}.main{margin-left:246px;padding:30px 38px 50px;max-width:1600px}.topbar{display:flex;justify-content:space-between;align-items:center;margin-bottom:28px}.eyebrow{font-size:11px;color:var(--muted);margin-bottom:6px}.topbar h1{font-size:25px;letter-spacing:-.7px;margin:0}.top-right{display:flex;align-items:center;gap:12px}.date-chip{background:#fff;border:1px solid var(--line);padding:9px 13px;border-radius:9px;color:var(--muted);font-size:12px}.avatar{width:36px;height:36px;border-radius:11px;background:#e4ebff;color:#3159b7;display:grid;place-items:center;font-weight:800;font-size:12px}.view{display:none}.view.active{display:block}.welcome{background:linear-gradient(115deg,#17294d,#294d8d);color:white;padding:26px 30px;border-radius:17px;box-shadow:var(--shadow);display:flex;justify-content:space-between;align-items:center;margin-bottom:22px;overflow:hidden;position:relative}.welcome:after{content:"";position:absolute;width:240px;height:240px;border:1px solid #ffffff20;border-radius:50%;right:9%;top:-135px;box-shadow:0 0 0 35px #ffffff08,0 0 0 70px #ffffff06}.welcome h2{margin:0 0 8px;font-size:20px}.welcome p{margin:0;color:#cbd7ef;font-size:13px;line-height:1.6;max-width:570px}.welcome-tag{z-index:1;border:1px solid #ffffff40;border-radius:30px;padding:9px 13px;font-size:11px;color:#e4edff;white-space:nowrap}.stats{display:grid;grid-template-columns:repeat(3,1fr);gap:16px;margin-bottom:22px}.stat{background:#fff;border:1px solid var(--line);border-radius:14px;padding:19px 20px;box-shadow:0 4px 16px #18243b05}.stat-top{display:flex;justify-content:space-between;align-items:center;color:var(--muted);font-size:12px}.stat-icon{width:34px;height:34px;border-radius:10px;background:var(--blue2);color:var(--blue);display:grid;place-items:center;font-size:16px}.stat strong{display:block;font-size:27px;letter-spacing:-.7px;margin:13px 0 4px}.stat small{font-size:11px;color:var(--muted)}.panel{background:#fff;border:1px solid var(--line);border-radius:15px;padding:23px;box-shadow:0 4px 16px #18243b05;margin-bottom:20px}.panel-head{display:flex;justify-content:space-between;align-items:flex-start;margin-bottom:20px}.panel h2{font-size:16px;margin:0 0 6px}.panel-sub{font-size:12px;color:var(--muted);margin:0}.primary{background:var(--blue);color:#fff;border:0;border-radius:9px;padding:11px 16px;font-weight:700;font-size:12px;cursor:pointer}.primary:hover{background:#2857c3}.secondary{background:#fff;border:1px solid var(--line);color:#44516a;border-radius:9px;padding:10px 14px;font-weight:650;font-size:12px;cursor:pointer}.secondary:hover{background:#f7f9fd}.quick-grid{display:grid;grid-template-columns:1.25fr .75fr;gap:18px}.activity-empty{padding:25px 10px;text-align:center;color:var(--muted);font-size:12px}.activity-empty b{display:block;color:var(--ink);font-size:13px;margin-bottom:6px}.form-grid{display:grid;grid-template-columns:1fr 1fr;gap:17px}.field label{display:block;font-size:12px;font-weight:700;margin-bottom:7px;color:#35425b}.field input,.field select{width:100%;border:1px solid #dce3ee;border-radius:9px;padding:12px 13px;background:#fff;color:var(--ink);font-size:13px;outline:none}.field input:focus,.field select:focus{border-color:#7ea0f5;box-shadow:0 0 0 3px #3569df18}.hint{font-size:10px;color:var(--muted);margin-top:6px}.form-actions{display:flex;gap:10px;align-items:center;margin-top:22px}.form-actions .primary{min-width:190px;padding:13px 18px}.result{display:none;margin-top:22px;border:1px solid var(--line);border-radius:13px;padding:20px;background:#fbfcff}.result.normal{border-color:#bfe8d5;background:#f7fcf9}.result.anomaly{border-color:#f2caca;background:#fffafa}.result-title{display:flex;align-items:center;gap:10px;font-size:16px;font-weight:800}.result-badge{font-size:10px;padding:5px 9px;border-radius:30px;background:var(--greenbg);color:var(--green)}.anomaly .result-badge{background:var(--redbg);color:var(--red)}.score-row{display:grid;grid-template-columns:1fr 1fr;gap:12px;margin:17px 0}.score-box{background:#fff;border:1px solid var(--line);border-radius:10px;padding:13px}.score-box span{display:block;color:var(--muted);font-size:10px;margin-bottom:7px}.score-box strong{font-size:17px;word-break:break-word}.result-message{font-size:12px;color:#4c5a70;line-height:1.6}.disclaimer{font-size:10px;color:var(--muted);line-height:1.6;margin:12px 0 0}.error{color:var(--red)}.table-wrap{overflow:auto}table{width:100%;border-collapse:collapse;min-width:650px}th,td{text-align:left;padding:12px 10px;border-bottom:1px solid var(--line);font-size:11px}th{color:var(--muted);font-weight:700;background:#fafbfe}td{color:#35425b}.status-tag{display:inline-block;padding:5px 8px;border-radius:30px;font-size:10px;font-weight:700}.status-tag.normal{background:var(--greenbg);color:var(--green)}.status-tag.anomaly{background:var(--redbg);color:var(--red)}.empty{padding:35px;text-align:center;color:var(--muted);font-size:12px}.notice{background:#f2f6ff;border:1px solid #dce7ff;border-radius:10px;padding:13px 15px;color:#526487;font-size:11px;line-height:1.6;margin-top:17px}.hidden{display:none!important}.footer{text-align:center;color:#94a0b3;font-size:10px;padding:18px 0 0}
+@media(max-width:900px){.sidebar{width:205px}.main{margin-left:205px;padding:25px 22px}.quick-grid{grid-template-columns:1fr}}
+@media(max-width:650px){.sidebar{position:static;width:auto;height:auto;padding:15px;display:block}.brand-sub{padding-bottom:12px}.nav-label,.sidebar-bottom{display:none}.nav{display:flex;gap:5px;overflow:auto}.nav button{white-space:nowrap;width:auto;padding:9px 11px}.main{margin:0;padding:20px 14px 35px}.topbar h1{font-size:21px}.date-chip{display:none}.welcome{padding:21px;display:block}.welcome-tag{display:inline-block;margin-top:15px}.stats{grid-template-columns:1fr}.form-grid{grid-template-columns:1fr}.panel{padding:17px}.score-row{grid-template-columns:1fr 1fr}}
+</style>
+
+
+
+</head>
+<body>
+<div class="app">
+<aside class="sidebar">
+  <div class="brand">BillTimeGuard <span>AI</span></div>
+  <div class="brand-sub">LEGAL BILLING INTELLIGENCE</div>
+  <div class="nav-label">Workspace</div>
+  <nav class="nav">
+    <button class="active" data-view="dashboard"><span class="ico">▦</span>Dashboard</button>
+    <button data-view="analyze"><span class="ico">⌕</span>Analyze Billing</button>
+    <button data-view="history"><span class="ico">◷</span>Analysis History</button>
+  </nav>
+  <div class="sidebar-bottom">
+    <div>AI-powered billing pattern analysis</div>
+    <div class="api-pill"><span class="dot" id="apiDot"></span><span id="apiStatus">Checking API...</span></div>
+    <div style="margin-top:14px">Model: Autoencoder<br>Version 1.0 · Academic project</div>
+  </div>
+</aside>
+
+<main class="main">
+  <header class="topbar">
+    <div><div class="eyebrow">LEGAL BILLING MONITORING</div><h1 id="pageTitle">Dashboard overview</h1></div>
+    <div class="top-right"><div class="date-chip" id="today"></div><div class="avatar">BT</div></div>
+  </header>
+
+  <section class="view active" id="dashboard">
+    <div class="welcome">
+      <div><h2>Welcome to BillTimeGuard AI</h2><p>Review legal billing entries with an Autoencoder-based anomaly detection model. Identify unusual patterns that may need further review.</p></div>
+      <div class="welcome-tag">✦ AI-POWERED ANALYSIS</div>
+    </div>
+    <div class="stats">
+      <div class="stat"><div class="stat-top">Entries analyzed <span class="stat-icon">▤</span></div><strong id="totalCount">0</strong><small>Analyses saved in this browser</small></div>
+      <div class="stat"><div class="stat-top">Normal range <span class="stat-icon">✓</span></div><strong id="normalCount">0</strong><small>Predictions within learned range</small></div>
+      <div class="stat"><div class="stat-top">Potential anomalies <span class="stat-icon">⚑</span></div><strong id="anomalyCount">0</strong><small>Entries recommended for review</small></div>
+    </div>
+    <div class="quick-grid">
+
+    <div class="panel analytics-panel">
+      <div class="panel-head">
+        <div>
+          <h2>Analytics Overview</h2>
+          <p class="panel-sub">Distribution of your saved billing analyses</p>
+        </div>
+        <span class="welcome-tag">LIVE SUMMARY</span>
+      </div>
+
+      <div class="analytics-summary">
+        <div>
+          <strong id="anomalyRate">0%</strong>
+          <small>Potential anomaly rate</small>
+        </div>
+        <div>
+          <strong id="averageScore">0.000000</strong>
+          <small>Average anomaly score</small>
+        </div>
+      </div>
+
+      <div class="chart-row">
+        <div class="chart-label">
+          <span>Normal range</span>
+          <strong id="normalPercent">0%</strong>
+        </div>
+        <div class="chart-track">
+          <div class="chart-fill normal-fill" id="normalBar" style="width:0%"></div>
+        </div>
+      </div>
+
+      <div class="chart-row">
+        <div class="chart-label">
+          <span>Potential anomalies</span>
+          <strong id="anomalyPercent">0%</strong>
+        </div>
+        <div class="chart-track">
+          <div class="chart-fill anomaly-fill" id="anomalyBar" style="width:0%"></div>
+        </div>
+      </div>
+
+      <p class="analytics-note" id="analyticsNote">
+        Complete billing analyses to see your statistics here.
+      </p>
+    </div>
+
+      <div class="panel">
+        <div class="panel-head"><div><h2>Recent analyses</h2><p class="panel-sub">Your latest billing checks</p></div><button class="secondary" onclick="showView('history')">View history</button></div>
+        <div id="recentList" class="activity-empty"><b>No analyses yet</b>Your completed billing checks will appear here.</div>
+      </div>
+      <div class="panel">
+        <div class="panel-head"><div><h2>Quick analysis</h2><p class="panel-sub">Start a new billing review</p></div></div>
+        <p style="font-size:12px;color:#64718a;line-height:1.7;margin:0 0 18px">Enter the time, hourly rate and professional details to receive a model-based anomaly score.</p>
+        <button class="primary" style="width:100%" onclick="showView('analyze')">＋ Analyze a billing entry</button>
+        <div class="notice">An anomaly is an investigation signal, not proof of fraud or misconduct.</div>
+      </div>
+    </div>
+  </section>
+
+  <section class="view" id="analyze">
+    <div class="panel">
+      <div class="panel-head"><div><h2>Billing entry analysis</h2><p class="panel-sub">Enter the details below and submit them to the trained Autoencoder model.</p></div></div>
+      <form id="billingForm">
+        <div class="form-grid">
+          <div class="field"><label for="duration">Duration (hours)</label><input id="duration" type="number" min="0.01" step="any" value="0.3" required><div class="hint">Time recorded for this billing entry</div></div>
+          <div class="field"><label for="rate">Hourly rate ($)</label><input id="rate" type="number" min="0.01" step="any" value="590" required><div class="hint">Billing rate per hour</div></div>
+          <div class="field"><label for="day">Day of week</label><select id="day"><option value="0">Monday</option><option value="1" selected>Tuesday</option><option value="2">Wednesday</option><option value="3">Thursday</option><option value="4">Friday</option><option value="5">Saturday</option><option value="6">Sunday</option></select></div>
+          <div class="field"><label for="month">Month</label><select id="month"><option value="1">January</option><option value="2">February</option><option value="3">March</option><option value="4">April</option><option value="5" selected>May</option><option value="6">June</option><option value="7">July</option><option value="8">August</option><option value="9">September</option><option value="10">October</option><option value="11">November</option><option value="12">December</option></select></div>
+          <div class="field"><label for="partner">Is partner?</label><select id="partner"><option value="0" selected>No</option><option value="1">Yes</option></select></div>
+          <div class="field"><label for="position">Professional position</label><select id="position"><option>Associate</option><option>Attorney</option><option>Construction Attorney</option><option>E-Discovery Attorney</option><option>Litigation Counsel</option><option>Litigation Technology Services Analyst</option><option>Paralegal</option><option>Partner</option><option>Senior Associate</option><option>Technical Specialist</option><option>Unknown</option></select></div>
+        </div>
+        <div class="form-actions"><button class="primary" type="submit" id="analyzeButton">✦ Analyze billing entry</button><button class="secondary" type="reset" id="resetButton">Reset fields</button></div>
+      </form>
+      <div class="result" id="result" aria-live="polite">
+        <div class="result-title"><span id="resultStatus">Analysis result</span><span class="result-badge" id="resultBadge">RESULT</span></div>
+        <div class="score-row"><div class="score-box"><span>ANOMALY SCORE</span><strong id="anomalyScore">—</strong></div><div class="score-box"><span>DETECTION THRESHOLD</span><strong id="threshold">—</strong></div></div>
+        <p class="result-message" id="resultMessage"></p>
+
+        <div class="review-box">
+          <h3>Review Indicators</h3>
+          <p class="review-subtitle">Input-based checks to help guide manual review</p>
+          <ul id="reviewIndicators">
+            <li>Review indicators will appear after analysis.</li>
+          </ul>
+          <p class="review-disclaimer">
+            These are rule-based hints, not explanations of the Autoencoder's internal decision.
+          </p>
+        </div>
+        <button type="button" class="secondary" id="downloadPdfBtn">
+          Download PDF Report
+        </button>
+        <p class="disclaimer" id="disclaimer"></p>
+      </div>
+      <div class="notice">The model compares the submitted entry with patterns learned during training. A potential anomaly should be reviewed by a qualified person; it does not establish overbilling, fraud or misconduct.</div>
+    </div>
+  </section>
+
+  <section class="view" id="history">
+    <div class="panel">
+      <div class="panel-head"><div><h2>Analysis history</h2><p class="panel-sub">Recent predictions saved locally in this browser.</p></div><div style="display:flex;gap:8px"><button class="secondary" id="exportBtn">Export CSV</button><button class="secondary" id="clearBtn">Clear history</button></div></div>
+      <div class="table-wrap" id="historyTable"><div class="empty">No billing entries have been analyzed yet.</div></div>
+      <div class="notice">History is stored only in this browser using local storage. It is not saved to a server or shared with the API.</div>
+    </div>
+  </section>
+  <div class="footer">BillTimeGuard AI · AI-Based Legal Billing Anomaly Detector · Anomaly flags are investigation signals, not proof of fraud.</div>
+</main>
+</div>
+
+<script>
+const API_URL = "http://127.0.0.1:8000";
+const HISTORY_KEY = "billtimeguard_analysis_history_v1";
+const $ = id => document.getElementById(id);
+let historyItems = loadHistory();
+let latestReportData = null;
+function loadHistory(){try{return JSON.parse(localStorage.getItem(HISTORY_KEY)||"[]")}catch{return []}}
+function saveHistory(){localStorage.setItem(HISTORY_KEY,JSON.stringify(historyItems))}
+function showView(name){
+  document.querySelectorAll(".view").forEach(v=>v.classList.toggle("active",v.id===name));
+  document.querySelectorAll(".nav button").forEach(b=>b.classList.toggle("active",b.dataset.view===name));
+  $("pageTitle").textContent={dashboard:"Dashboard overview",analyze:"Analyze billing entry",history:"Analysis history"}[name];
+  if(name==="history")renderHistory();
+  if(name==="dashboard")renderDashboard();
+}
+document.querySelectorAll(".nav button").forEach(b=>b.addEventListener("click",()=>showView(b.dataset.view)));
+$("today").textContent=new Date().toLocaleDateString(undefined,{weekday:"short",month:"short",day:"numeric",year:"numeric"});
+
+async function checkAPI(){
+  try{const r=await fetch(`${API_URL}/health`);if(!r.ok)throw new Error();const d=await r.json();const online=d.status==="healthy"&&d.model_loaded;$("apiDot").classList.toggle("online",online);$("apiStatus").textContent=online?"API & model online":"API needs attention"}
+  catch{$("apiDot").classList.remove("online");$("apiStatus").textContent="API offline"}
+}
+function renderDashboard(){
+  const normal=historyItems.filter(x=>x.status==="Normal Range").length;
+  const anomaly=historyItems.filter(x=>x.status==="Potential Anomaly").length;
+  $("totalCount").textContent=historyItems.length;$("normalCount").textContent=normal;$("anomalyCount").textContent=anomaly;
+
+  const total = historyItems.length;
+  const normalPct = total ? (normal / total) * 100 : 0;
+  const anomalyPct = total ? (anomaly / total) * 100 : 0;
+
+  const averageScore = total
+    ? historyItems.reduce((sum, item) => sum + Number(item.score || 0), 0) / total
+    : 0;
+
+  $("normalPercent").textContent = `${normalPct.toFixed(1)}%`;
+  $("anomalyPercent").textContent = `${anomalyPct.toFixed(1)}%`;
+  $("anomalyRate").textContent = `${anomalyPct.toFixed(1)}%`;
+  $("averageScore").textContent = averageScore.toFixed(6);
+
+  $("normalBar").style.width = `${normalPct}%`;
+  $("anomalyBar").style.width = `${anomalyPct}%`;
+
+  $("analyticsNote").textContent = total
+    ? `Based on ${total} saved billing analyses in this browser.`
+    : "Complete billing analyses to see your statistics here.";
+
+  const recent=historyItems.slice(0,5);
+  $("recentList").innerHTML=recent.length?`<div class="table-wrap"><table><thead><tr><th>DATE</th><th>POSITION</th><th>RESULT</th></tr></thead><tbody>${recent.map(x=>`<tr><td>${escapeHTML(x.date)}</td><td>${escapeHTML(x.position)}</td><td><span class="status-tag ${x.status==="Potential Anomaly"?"anomaly":"normal"}">${x.status==="Potential Anomaly"?"Potential anomaly":"Normal range"}</span></td></tr>`).join("")}</tbody></table></div>`:'<div class="activity-empty"><b>No analyses yet</b>Your completed billing checks will appear here.</div>';
+}
+function renderHistory(){
+  $("historyTable").innerHTML=historyItems.length?`<table><thead><tr><th>DATE</th><th>DURATION</th><th>RATE</th><th>POSITION</th><th>SCORE</th><th>RESULT</th></tr></thead><tbody>${historyItems.map(x=>`<tr><td>${escapeHTML(x.date)}</td><td>${x.duration} h</td><td>$${Number(x.rate).toFixed(2)}</td><td>${escapeHTML(x.position)}</td><td>${Number(x.score).toFixed(8)}</td><td><span class="status-tag ${x.status==="Potential Anomaly"?"anomaly":"normal"}">${x.status==="Potential Anomaly"?"Potential anomaly":"Normal range"}</span></td></tr>`).join("")}</tbody></table>`:'<div class="empty">No billing entries have been analyzed yet.</div>';
+}
+function escapeHTML(s){return String(s).replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]))}
+
+$("billingForm").addEventListener("submit",async event=>{
+  event.preventDefault();
+  const billingData={
+    EntryDurationHours:Number($("duration").value),Rate:Number($("rate").value),
+    DayOfWeek:Number($("day").value),Month:Number($("month").value),
+    Partner:Number($("partner").value),Position:$("position").value
+  };
+  const btn=$("analyzeButton");btn.disabled=true;btn.textContent="Analyzing with AI...";
+  $("result").style.display="none";
+  try{
+    const response=await fetch(`${API_URL}/predict`,{method:"POST",headers:{"Content-Type":"application/json"},body:JSON.stringify(billingData)});
+    const data=await response.json();
+    if(!response.ok)throw new Error(data.detail?JSON.stringify(data.detail):"The API could not process this entry.");
+    const anomaly=data.status==="Potential Anomaly";
+    $("result").className="result "+(anomaly?"anomaly":"normal");
+    $("resultStatus").textContent=anomaly?"Potential anomaly detected":"Entry within normal range";
+    $("resultBadge").textContent=anomaly?"REVIEW RECOMMENDED":"NORMAL RANGE";
+    $("anomalyScore").textContent=Number(data.anomaly_score).toFixed(8);
+    $("threshold").textContent=Number(data.threshold).toFixed(8);
+
+    // Generate rule-based review indicators
+    const reviewHints = [];
+    const billedAmount = billingData.EntryDurationHours * billingData.Rate;
+
+    if (billingData.EntryDurationHours > 8) {
+      reviewHints.push("Long billing duration: more than 8 hours recorded in one entry.");
+    }
+
+    if (billingData.Rate > 1000) {
+      reviewHints.push("High hourly rate: verify the rate against the applicable fee agreement.");
+    }
+
+    if (billedAmount > 5000) {
+      reviewHints.push("High calculated billed amount: verify the time entry and arithmetic.");
+    }
+
+    if (billingData.EntryDurationHours <= 8 &&
+        billingData.Rate <= 1000 &&
+        billedAmount <= 5000) {
+      reviewHints.push("No indicators were triggered by the basic duration, rate and amount checks.");
+    }
+
+    $("reviewIndicators").innerHTML = reviewHints
+      .map(hint => `<li>${hint}</li>`)
+      .join("");
+    latestReportData = {
+      ...billingData,
+      anomaly_score: data.anomaly_score,
+      threshold: data.threshold,
+      status: data.status,
+      message: data.message,
+      disclaimer: data.disclaimer,
+      review_indicators: reviewHints
+    };
+
+    $("resultMessage").textContent=data.message;
+    $("disclaimer").textContent=data.disclaimer;
+    $("result").style.display="block";
+    historyItems.unshift({date:new Date().toLocaleString(),duration:billingData.EntryDurationHours,rate:billingData.Rate,position:billingData.Position,score:data.anomaly_score,threshold:data.threshold,status:data.status});
+    historyItems=historyItems.slice(0,100);saveHistory();renderDashboard();
+  }catch(error){
+    $("result").className="result anomaly";$("resultStatus").textContent="Unable to analyze entry";$("resultBadge").textContent="ERROR";
+    $("anomalyScore").textContent="—";$("threshold").textContent="—";$("resultMessage").textContent=error.message;
+    $("disclaimer").textContent="Check that the FastAPI backend is running at "+API_URL+" and try again.";
+    $("result").style.display="block";
+  }finally{btn.disabled=false;btn.textContent="✦ Analyze billing entry"}
+});
+$("resetButton").addEventListener("click",()=>{$("result").style.display="none"});
+
+$("downloadPdfBtn").addEventListener("click", async () => {
+  if (!latestReportData) {
+    alert("Please analyze a billing entry first.");
+    return;
+  }
+
+  const button = $("downloadPdfBtn");
+  button.disabled = true;
+  button.textContent = "Generating PDF...";
+
+  try {
+    const response = await fetch(`${API_URL}/generate-report`, {
+      method: "POST",
+      headers: {
+        "Content-Type": "application/json"
+      },
+      body: JSON.stringify(latestReportData)
+    });
+
+    if (!response.ok) {
+      const error = await response.json();
+      throw new Error(error.detail || "PDF generation failed.");
+    }
+
+    const blob = await response.blob();
+    const url = URL.createObjectURL(blob);
+
+    const link = document.createElement("a");
+    link.href = url;
+    link.download = "BillTimeGuard_Analysis_Report.pdf";
+    link.click();
+
+    URL.revokeObjectURL(url);
+
+  } catch (error) {
+    alert("Unable to download PDF: " + error.message);
+  } finally {
+    button.disabled = false;
+    button.textContent = "Download PDF Report";
+  }
+});
+
+$("exportBtn").addEventListener("click",()=>{
+  if(!historyItems.length){alert("There is no analysis history to export yet.");return}
+  const cols=["date","duration","rate","position","score","threshold","status"];
+  const csv=[cols.join(","),...historyItems.map(row=>cols.map(k=>`"${String(row[k]??"").replace(/"/g,'""')}"`).join(","))].join("\n");
+  const blob=new Blob([csv],{type:"text/csv;charset=utf-8;"});const url=URL.createObjectURL(blob);
+  const a=document.createElement("a");a.href=url;a.download="billtimeguard_analysis_history.csv";a.click();URL.revokeObjectURL(url);
+});
+$("clearBtn").addEventListener("click",()=>{if(confirm("Clear all analysis history saved in this browser?")){historyItems=[];saveHistory();renderHistory();renderDashboard()}});
+renderDashboard();checkAPI();setInterval(checkAPI,30000);
+</script>
+</body>
+</html>

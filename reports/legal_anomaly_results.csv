@@ -1,0 +1,603 @@
+EntryID,AnomalyScore,PredictedAnomaly,Timekeeper,Matter,Date,Position,Partner,PhaseName,EntryDurationHours,Rate,BilledAmount,DayOfWeek,Month,RepeatedEntryFlag,SourceDocumentName,AnomalyStatus
+1595,0.057788435,1,Connor K. Purks,201700893,2017-02-28,Technical Specialist,0,pleading,2.8,180.0,503.99999999999994,1,2,0,da.document.North Carolina Middle District Court_1_17-cv-00687_No. 369-2.json,Potential Anomaly
+10833,0.038597435,1,Erin N. Larimer,398561.00001,2021-08-17,E-Discovery Attorney,0,,1.5,590.0,885.0,1,8,0,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90364911-90364912.json",Potential Anomaly
+6726,0.018207978,1,Reyko E. Delpino,58883,2023-10-16,Paralegal,0,discovery,0.3,1000.0,300.0,0,10,0,"da.document.New York State, New York County, Supreme Court_653490_2023_41.json",Potential Anomaly
+4069,0.0108296145,1,Joanna Schorr,555333,2021-02-01,Senior Associate,0,,0.4,725.0,290.0,0,2,1,"da.document.New York State, New York County, Supreme Court_654817_2021_161.json",Potential Anomaly
+5893,0.0108296145,1,Joanna Schorr,555333,2021-02-01,Senior Associate,0,,0.4,725.0,290.0,0,2,1,"da.document.New York State, New York County, Supreme Court_654817_2021_153.json",Potential Anomaly
+5127,0.008122332,1,Joanna Schorr,555333,2021-11-18,Senior Associate,0,discovery,13.5,725.0,9787.5,3,11,1,"da.document.New York State, New York County, Supreme Court_654817_2021_160.json",Potential Anomaly
+5984,0.008122332,1,Joanna Schorr,555333,2021-11-18,Senior Associate,0,discovery,13.5,725.0,9787.5,3,11,1,"da.document.New York State, New York County, Supreme Court_654817_2021_153.json",Potential Anomaly
+6923,0.007437201,1,Teresa Barrera,58883.00424,2024-01-24,Paralegal,0,discovery,1.4,511.0,715.4,2,1,0,"da.document.New York State, New York County, Supreme Court_653490_2023_41.json",Potential Anomaly
+1160,0.0066382615,1,Michael Barry,061536.493969,2018-07-27,Senior Associate,0,post-trial,7.8,615.0,4797.0,4,7,0,"da.document.Florida State, Miami-Dade County, Eleventh Circuit Court_2016-021856-CA-01_Doc-233-Notice-Of-Filing-Affidavit-Of-Reasonable-Attorney-Fees.json",Potential Anomaly
+2196,0.0064892597,1,B. T. Carney,101362.0001,2020-07-06,Partner,1,,0.4,1350.0,540.0,0,7,0,"da.document.Delaware State, Court of Chancery_2019-0743_No. 86510655-86510657.json",Potential Anomaly
+11729,0.006272227,1,Clarissa C. Sarmiento,398561.00001,2021-08-19,Attorney,0,,9.3,190.0,1767.0000000000002,3,8,0,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90966760-90966762.json",Potential Anomaly
+11496,0.0042728493,1,B. C. Lehman,398561.00001,2021-05-16,,0,,3.2,495.0,1584.0,6,5,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90966760-90966762.json",Potential Anomaly
+10636,0.0042728493,1,B. C. Lehman,398561.00001,2021-05-16,,0,,3.2,495.0,1584.0,6,5,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90364911-90364912.json",Potential Anomaly
+9601,0.0042728493,1,B. C. Lehman,398561.00001,2021-05-16,,0,,3.2,495.0,1584.0,6,5,0,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90966640-90966642.json",Potential Anomaly
+8272,0.0042728493,1,B. C. Lehman,398561.00001,2021-05-16,,0,,3.2,495.0,1584.0,6,5,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90232209-90232211.json",Potential Anomaly
+12090,0.0042728493,1,B. C. Lehman,398561.00001,2021-05-16,,0,,3.2,495.0,1584.0,6,5,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90681161-90681162.json",Potential Anomaly
+6748,0.003935291,1,Teresa Barrera,58883,2023-12-07,Paralegal,0,discovery,3.1,365.0,1131.5,3,12,0,"da.document.New York State, New York County, Supreme Court_653490_2023_41.json",Potential Anomaly
+6698,0.0037397216,1,Reyko E. Delpino,58883,2023-10-27,Paralegal,0,discovery,0.4,445.0,178.0,4,10,1,"da.document.New York State, New York County, Supreme Court_653490_2023_41.json",Potential Anomaly
+2351,0.0037397216,1,Reyko E. Delpino,58883,2023-10-27,Paralegal,0,discovery,0.4,445.0,178.0,4,10,1,"da.document.New York State, New York County, Supreme Court_653490_2023_38.json",Potential Anomaly
+6908,0.0036184646,1,Ashley B. Akapo,,2024-01-18,,0,discovery,2.1,360.0,756.0,3,1,0,"da.document.New York State, New York County, Supreme Court_653490_2023_41.json",Potential Anomaly
+1875,0.003304214,1,Peter D. Siddoway,201700893,2020-01-17,Partner,1,pre-trial,7.0,440.0,3080.0,4,1,0,da.document.North Carolina Middle District Court_1_17-cv-00687_No. 369-2.json,Potential Anomaly
+8027,0.0030110013,1,Jonathan P. Matthews,398561.00001,2021-02-19,Litigation Technology Services Analyst,0,,0.5,475.0,237.5,4,2,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90232209-90232211.json",Potential Anomaly
+11226,0.0030110013,1,Jonathan P. Matthews,398561.00001,2021-02-19,Litigation Technology Services Analyst,0,,0.5,475.0,237.5,4,2,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90966760-90966762.json",Potential Anomaly
+10348,0.0030110013,1,Jonathan P. Matthews,398561.00001,2021-02-19,Litigation Technology Services Analyst,0,,0.5,475.0,237.5,4,2,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90364911-90364912.json",Potential Anomaly
+1854,0.002937339,1,Lynne A. Borchers,201700893,2019-08-31,Partner,1,pre-trial,0.2,440.0,88.0,5,8,0,da.document.North Carolina Middle District Court_1_17-cv-00687_No. 369-2.json,Potential Anomaly
+2375,0.0029165803,1,Donald David,58883,2023-10-09,Partner,1,discovery,0.7,445.0,311.5,0,10,1,"da.document.New York State, New York County, Supreme Court_653490_2023_38.json",Potential Anomaly
+6720,0.0029165803,1,Donald David,58883,2023-10-09,Partner,1,discovery,0.7,445.0,311.5,0,10,1,"da.document.New York State, New York County, Supreme Court_653490_2023_41.json",Potential Anomaly
+6485,0.0029165521,1,Brett Jaffe,555333,2022-07-11,Partner,1,discovery,15.7,850.0,13345.0,0,7,0,"da.document.New York State, New York County, Supreme Court_654817_2021_153.json",Potential Anomaly
+4652,0.0029165521,1,Brett Jaffe,555333,2022-07-11,Partner,1,discovery,15.7,850.0,13345.0,0,7,0,"da.document.New York State, New York County, Supreme Court_654817_2021_161.json",Potential Anomaly
+12165,0.0028530448,0,Stephanie Q. Chadick,398561.00001,2021-03-10,Paralegal,0,,6.6,315.0,2079.0,2,3,0,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90681161-90681162.json",Normal Range
+6277,0.002759667,0,Brett Jaffe,555333,2022-04-29,Partner,1,discovery,3.0,850.0,2550.0,4,4,1,"da.document.New York State, New York County, Supreme Court_654817_2021_153.json",Normal Range
+5532,0.002759667,0,Brett Jaffe,555333,2022-04-29,Partner,1,discovery,3.0,850.0,2550.0,4,4,1,"da.document.New York State, New York County, Supreme Court_654817_2021_160.json",Normal Range
+411,0.002759667,0,Brett Jaffe,555333,2022-04-29,Partner,1,discovery,3.0,850.0,2550.0,4,4,1,"da.document.New York State, New York County, Supreme Court_654817_2021_159.json",Normal Range
+11684,0.002511745,0,Benjamin P. Chapple,398561.00001,2021-08-16,Associate,0,,8.0,175.0,1400.0,0,8,0,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90966760-90966762.json",Normal Range
+10890,0.0025116378,0,John A. Favor,398561.00001,2021-06-11,,0,,2.7,195.0,526.5,4,6,0,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90364911-90364912.json",Normal Range
+8563,0.0025116378,0,John A. Favor,398561.00001,2021-06-11,,0,,2.7,195.0,526.5,4,6,0,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90232209-90232211.json",Normal Range
+6743,0.0024893954,0,Reyko E. Delpino,58883,2023-10-26,Paralegal,0,discovery,0.8,445.0,356.0,3,10,0,"da.document.New York State, New York County, Supreme Court_653490_2023_41.json",Normal Range
+2367,0.0024893954,0,Reyko E. Delpino,58883,2023-10-26,Paralegal,0,discovery,0.8,445.0,356.0,3,10,0,"da.document.New York State, New York County, Supreme Court_653490_2023_38.json",Normal Range
+1073,0.0024826548,0,Robert O. Saunooke,5613025297 ,2016-10-10,Partner,1,pleading,4.1,350.0,1434.9999999999998,0,10,0,"da.document.Florida State, Miami-Dade County, Eleventh Circuit Court_2016-021856-CA-01_Doc-233-Notice-Of-Filing-Affidavit-Of-Reasonable-Attorney-Fees.json",Normal Range
+6839,0.0022985805,0,Sydney Sgovio,58883.00424,2024-01-03,Associate,0,discovery,0.8,480.0,384.0,2,1,0,"da.document.New York State, New York County, Supreme Court_653490_2023_41.json",Normal Range
+5529,0.00211064,0,Joanna Schorr,555333,2022-04-28,Senior Associate,0,discovery,0.3,725.0,217.5,3,4,1,"da.document.New York State, New York County, Supreme Court_654817_2021_160.json",Normal Range
+408,0.00211064,0,Joanna Schorr,555333,2022-04-28,Senior Associate,0,discovery,0.3,725.0,217.5,3,4,1,"da.document.New York State, New York County, Supreme Court_654817_2021_159.json",Normal Range
+6274,0.00211064,0,Joanna Schorr,555333,2022-04-28,Senior Associate,0,discovery,0.3,725.0,217.5,3,4,1,"da.document.New York State, New York County, Supreme Court_654817_2021_153.json",Normal Range
+1121,0.0020850408,0,Robert O. Saunooke,5613025297 ,2019-01-28,Partner,1,post-trial,0.5,350.0,175.0,0,1,0,"da.document.Florida State, Miami-Dade County, Eleventh Circuit Court_2016-021856-CA-01_Doc-233-Notice-Of-Filing-Affidavit-Of-Reasonable-Attorney-Fees.json",Normal Range
+1163,0.0020571286,0,Daniel Diffley,061536.493969,2018-07-29,Partner,1,post-trial,1.0,765.0,765.0,6,7,0,"da.document.Florida State, Miami-Dade County, Eleventh Circuit Court_2016-021856-CA-01_Doc-233-Notice-Of-Filing-Affidavit-Of-Reasonable-Attorney-Fees.json",Normal Range
+2468,0.002000099,0,Donald David,58883.00424,2024-01-02,Partner,1,discovery,0.1,100.0,10.0,1,1,1,"da.document.New York State, New York County, Supreme Court_653490_2023_38.json",Normal Range
+6829,0.002000099,0,Donald David,58883.00424,2024-01-02,Partner,1,discovery,0.1,100.0,10.0,1,1,1,"da.document.New York State, New York County, Supreme Court_653490_2023_41.json",Normal Range
+1725,0.0019966415,0,Jeffery S. Steen,,2017-11-28,Paralegal,0,discovery,1.7,190.0,323.0,1,11,0,da.document.North Carolina Middle District Court_1_17-cv-00687_No. 369-2.json,Normal Range
+1903,0.001967444,0,Lynne A. Borchers,201700893,2020-11-05,Partner,1,pre-trial,15.0,440.0,6600.0,3,11,0,da.document.North Carolina Middle District Court_1_17-cv-00687_No. 369-2.json,Normal Range
+2474,0.0019587472,0,Sydney Sgovio,58883.00424,2024-01-03,Associate,0,discovery,0.6,360.0,216.0,2,1,1,"da.document.New York State, New York County, Supreme Court_653490_2023_38.json",Normal Range
+6835,0.0019587472,0,Sydney Sgovio,58883.00424,2024-01-03,Associate,0,discovery,0.6,360.0,216.0,2,1,1,"da.document.New York State, New York County, Supreme Court_653490_2023_41.json",Normal Range
+2413,0.0018533537,0,Sydney Sgovio,58883,2023-12-01,Associate,0,discovery,0.1,600.0,60.0,4,12,0,"da.document.New York State, New York County, Supreme Court_653490_2023_38.json",Normal Range
+6820,0.0018300897,0,Donald David,58883,2023-12-18,Partner,1,discovery,0.2,1000.0,200.0,0,12,1,"da.document.New York State, New York County, Supreme Court_653490_2023_41.json",Normal Range
+6821,0.0018300897,0,Donald David,58883,2023-12-18,Partner,1,discovery,0.2,1000.0,200.0,0,12,1,"da.document.New York State, New York County, Supreme Court_653490_2023_41.json",Normal Range
+2431,0.0018300897,0,Donald David,58883,2023-12-18,Partner,1,discovery,0.2,1000.0,200.0,0,12,1,"da.document.New York State, New York County, Supreme Court_653490_2023_38.json",Normal Range
+2429,0.0018300897,0,Donald David,58883,2023-12-18,Partner,1,discovery,0.2,1000.0,200.0,0,12,1,"da.document.New York State, New York County, Supreme Court_653490_2023_38.json",Normal Range
+2428,0.0018300897,0,Donald David,58883,2023-12-18,Partner,1,discovery,0.2,1000.0,200.0,0,12,1,"da.document.New York State, New York County, Supreme Court_653490_2023_38.json",Normal Range
+6822,0.0018300897,0,Donald David,58883,2023-12-18,Partner,1,discovery,0.2,1000.0,200.0,0,12,1,"da.document.New York State, New York County, Supreme Court_653490_2023_41.json",Normal Range
+6823,0.0018300897,0,Donald David,58883,2023-12-18,Partner,1,discovery,0.2,1000.0,200.0,0,12,1,"da.document.New York State, New York County, Supreme Court_653490_2023_41.json",Normal Range
+2430,0.0018300897,0,Donald David,58883,2023-12-18,Partner,1,discovery,0.2,1000.0,200.0,0,12,1,"da.document.New York State, New York County, Supreme Court_653490_2023_38.json",Normal Range
+1904,0.0018189228,0,Peter D. Siddoway,201700893,2020-11-05,Partner,1,pre-trial,11.75,375.0,4406.25,3,11,0,da.document.North Carolina Middle District Court_1_17-cv-00687_No. 369-2.json,Normal Range
+2511,0.0018185455,0,Teresa Barrera,58883.00424,2024-01-11,Paralegal,0,discovery,1.7,180.0,306.0,3,1,0,"da.document.New York State, New York County, Supreme Court_653490_2023_38.json",Normal Range
+6854,0.0018185455,0,Teresa Barrera,58883.00424,2024-01-11,Paralegal,0,discovery,1.7,180.0,306.0,3,1,0,"da.document.New York State, New York County, Supreme Court_653490_2023_41.json",Normal Range
+1103,0.0018041616,0,Robert O. Saunooke,5613025297 ,2018-01-08,Partner,1,post-trial,2.0,350.0,700.0,0,1,0,"da.document.Florida State, Miami-Dade County, Eleventh Circuit Court_2016-021856-CA-01_Doc-233-Notice-Of-Filing-Affidavit-Of-Reasonable-Attorney-Fees.json",Normal Range
+10964,0.0017747494,0,Benjamin P. Chapple,398561.00001,2020-12-11,Associate,0,,0.1,585.0,58.5,4,12,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90966760-90966762.json",Normal Range
+9138,0.0017747494,0,Benjamin P. Chapple,398561.00001,2020-12-11,Associate,0,,0.1,585.0,58.5,4,12,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90966640-90966642.json",Normal Range
+10104,0.0017747494,0,Benjamin P. Chapple,398561.00001,2020-12-11,Associate,0,,0.1,585.0,58.5,4,12,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90364911-90364912.json",Normal Range
+7781,0.0017747494,0,Benjamin P. Chapple,398561.00001,2020-12-11,Associate,0,,0.1,585.0,58.5,4,12,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90232209-90232211.json",Normal Range
+9828,0.0017190245,0,John Muir,398561.00001,2021-08-19,E-Discovery Attorney,0,,8.9,175.0,1557.5,3,8,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90966640-90966642.json",Normal Range
+11728,0.0017190245,0,John Muir,398561.00001,2021-08-19,E-Discovery Attorney,0,,8.9,175.0,1557.5,3,8,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90966760-90966762.json",Normal Range
+6622,0.0016875046,0,C. B. Benson,58883,2023-11-07,,0,discovery,0.2,895.0,179.0,1,11,0,"da.document.New York State, New York County, Supreme Court_653490_2023_41.json",Normal Range
+8834,0.001666205,0,B. C. Lehman,,2021-05-13,,0,,2.2,495.0,1089.0,3,5,0,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90966760-90966764.json",Normal Range
+1615,0.0016372264,0,Peter D. Siddoway,201700893,2022-02-14,Partner,1,,12.0,375.0,4500.0,0,2,0,da.document.North Carolina Middle District Court_1_17-cv-00687_No. 369-2.json,Normal Range
+6916,0.0016351739,0,Sydney Sgovio,58883.00424,2024-01-23,Associate,0,discovery,0.1,60.0,6.0,1,1,0,"da.document.New York State, New York County, Supreme Court_653490_2023_41.json",Normal Range
+4846,0.0016305427,0,Brett Jaffe,555333,2022-12-19,Partner,1,post-trial,2.0,850.0,1700.0,0,12,1,"da.document.New York State, New York County, Supreme Court_654817_2021_161.json",Normal Range
+724,0.0016305427,0,Brett Jaffe,555333,2022-12-19,Partner,1,post-trial,2.0,850.0,1700.0,0,12,1,"da.document.New York State, New York County, Supreme Court_654817_2021_159.json",Normal Range
+6902,0.0015727635,0,Donald David,,2024-01-18,Partner,1,discovery,0.2,1000.0,200.0,3,1,0,"da.document.New York State, New York County, Supreme Court_653490_2023_41.json",Normal Range
+6903,0.0015727635,0,Donald David,,2024-01-18,Partner,1,discovery,0.2,1000.0,200.0,3,1,0,"da.document.New York State, New York County, Supreme Court_653490_2023_41.json",Normal Range
+6905,0.0015727635,0,Donald David,,2024-01-18,Partner,1,discovery,0.2,1000.0,200.0,3,1,0,"da.document.New York State, New York County, Supreme Court_653490_2023_41.json",Normal Range
+6604,0.0015717128,0,Donald David,58883,2023-11-13,Partner,1,discovery,0.3,1000.0,300.0,0,11,0,"da.document.New York State, New York County, Supreme Court_653490_2023_41.json",Normal Range
+6813,0.0015378144,0,A. R. Hanke,58883,2023-12-21,,0,discovery,0.4,600.0,240.0,3,12,0,"da.document.New York State, New York County, Supreme Court_653490_2023_41.json",Normal Range
+1886,0.0015058958,0,Peter D. Siddoway,201700893,2020-03-02,Partner,1,pre-trial,1.25,375.0,468.75,0,3,0,da.document.North Carolina Middle District Court_1_17-cv-00687_No. 369-2.json,Normal Range
+1735,0.0014493258,0,Lynne A. Borchers,201700893,2018-01-08,Partner,1,discovery,1.0,440.0,440.0,0,1,0,da.document.North Carolina Middle District Court_1_17-cv-00687_No. 369-2.json,Normal Range
+2451,0.0014486988,0,C. B. Benson,58883,2023-12-06,,0,discovery,0.1,600.0,60.0,2,12,1,"da.document.New York State, New York County, Supreme Court_653490_2023_38.json",Normal Range
+6781,0.0014486988,0,C. B. Benson,58883,2023-12-06,,0,discovery,0.1,600.0,60.0,2,12,1,"da.document.New York State, New York County, Supreme Court_653490_2023_41.json",Normal Range
+1065,0.0014412056,0,Robert O. Saunooke,,2017-12-05,Partner,1,post-trial,2.7,350.0,945.0000000000001,1,12,0,"da.document.Florida State, Miami-Dade County, Eleventh Circuit Court_2016-021856-CA-01_Doc-233-Notice-Of-Filing-Affidavit-Of-Reasonable-Attorney-Fees.json",Normal Range
+5069,0.0013945698,0,Joanna Schorr,555333,2021-09-14,Senior Associate,0,discovery,0.1,725.0,72.5,1,9,1,"da.document.New York State, New York County, Supreme Court_654817_2021_160.json",Normal Range
+24,0.0013945698,0,Joanna Schorr,555333,2021-09-14,Senior Associate,0,discovery,0.1,725.0,72.5,1,9,1,"da.document.New York State, New York County, Supreme Court_654817_2021_159.json",Normal Range
+6929,0.0013657723,0,Sydney Sgovio,58883.00424,2024-01-25,Associate,0,discovery,0.4,240.0,96.0,3,1,0,"da.document.New York State, New York County, Supreme Court_653490_2023_41.json",Normal Range
+6764,0.0013377013,0,A. R. Hanke,58883,2023-12-13,,0,discovery,0.2,600.0,120.0,2,12,0,"da.document.New York State, New York County, Supreme Court_653490_2023_41.json",Normal Range
+1105,0.001323962,0,Robert O. Saunooke,5613025297 ,2018-03-07,Partner,1,post-trial,0.5,350.0,175.0,2,3,0,"da.document.Florida State, Miami-Dade County, Eleventh Circuit Court_2016-021856-CA-01_Doc-233-Notice-Of-Filing-Affidavit-Of-Reasonable-Attorney-Fees.json",Normal Range
+10875,0.0013137851,0,Benjamin P. Chapple,398561.00001,2020-11-20,Associate,0,,0.1,585.0,58.5,4,11,0,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90364911-90364912.json",Normal Range
+8782,0.0013125049,0,Austin L. McMullen,222471-401001,2020-09-29,Partner,1,,3.2,555.0,1776.0,1,9,0,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90966760-90966764.json",Normal Range
+11998,0.0013125049,0,Austin L. McMullen,222471-401001,2020-09-29,Partner,1,,3.2,555.0,1776.0,1,9,0,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90681161-90681162.json",Normal Range
+8460,0.0012885986,0,Marcin Krieger,398561.00001,2021-08-17,Associate,0,,0.2,400.0,80.0,1,8,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90232209-90232211.json",Normal Range
+9814,0.0012885986,0,Marcin Krieger,398561.00001,2021-08-17,Associate,0,,0.2,400.0,80.0,1,8,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90966640-90966642.json",Normal Range
+10816,0.0012885986,0,Marcin Krieger,398561.00001,2021-08-17,Associate,0,,0.2,400.0,80.0,1,8,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90364911-90364912.json",Normal Range
+11706,0.0012885986,0,Marcin Krieger,398561.00001,2021-08-17,Associate,0,,0.2,400.0,80.0,1,8,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90966760-90966762.json",Normal Range
+4775,0.0012735894,0,Joanna Schorr,555333,2022-10-11,Senior Associate,0,pre-trial,0.4,725.0,290.0,1,10,0,"da.document.New York State, New York County, Supreme Court_654817_2021_161.json",Normal Range
+6765,0.0012721221,0,A. R. Hanke,58883,2023-12-13,,0,discovery,0.3,600.0,180.0,2,12,0,"da.document.New York State, New York County, Supreme Court_653490_2023_41.json",Normal Range
+11739,0.0012384806,0,Brian M. Rostocki,398561.00001,2021-08-23,Partner,1,,1.5,795.0,1192.5,0,8,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90966760-90966762.json",Normal Range
+10850,0.0012384806,0,Brian M. Rostocki,398561.00001,2021-08-23,Partner,1,,1.5,795.0,1192.5,0,8,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90364911-90364912.json",Normal Range
+8499,0.0012384806,0,Brian M. Rostocki,398561.00001,2021-08-23,Partner,1,,1.5,795.0,1192.5,0,8,0,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90232209-90232211.json",Normal Range
+9847,0.0012384806,0,Brian M. Rostocki,398561.00001,2021-08-23,Partner,1,,1.5,795.0,1192.5,0,8,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90966640-90966642.json",Normal Range
+11738,0.0012194153,0,Trineka P. Schuster,398561.00001,2021-08-23,,0,,0.1,315.0,31.5,0,8,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90966760-90966762.json",Normal Range
+10849,0.0012194153,0,Trineka P. Schuster,398561.00001,2021-08-23,,0,,0.1,315.0,31.5,0,8,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90364911-90364912.json",Normal Range
+8804,0.0012194153,0,Trineka P. Schuster,398561.00001,2021-08-23,,0,,0.1,315.0,31.5,0,8,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90966760-90966764.json",Normal Range
+9846,0.0012194153,0,Trineka P. Schuster,398561.00001,2021-08-23,,0,,0.1,315.0,31.5,0,8,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90966640-90966642.json",Normal Range
+9801,0.0012194153,0,Trineka P. Schuster,398561.00001,2021-08-16,,0,,0.1,315.0,31.5,0,8,0,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90966640-90966642.json",Normal Range
+8498,0.0012194153,0,Trineka P. Schuster,398561.00001,2021-08-23,,0,,0.1,315.0,31.5,0,8,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90232209-90232211.json",Normal Range
+11681,0.0012194153,0,Trineka P. Schuster,398561.00001,2021-08-16,,0,,0.1,315.0,31.5,0,8,0,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90966760-90966762.json",Normal Range
+8431,0.0012194153,0,Trineka P. Schuster,398561.00001,2021-08-16,,0,,0.1,315.0,31.5,0,8,0,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90232209-90232211.json",Normal Range
+8181,0.0011879152,0,Brian M. Rostocki,398561.00001,2021-04-22,Partner,1,,3.0,795.0,2385.0,3,4,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90232209-90232211.json",Normal Range
+10485,0.0011879152,0,Brian M. Rostocki,398561.00001,2021-04-22,Partner,1,,3.0,795.0,2385.0,3,4,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90364911-90364912.json",Normal Range
+11390,0.0011879152,0,Brian M. Rostocki,398561.00001,2021-04-22,Partner,1,,3.0,795.0,2385.0,3,4,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90966760-90966762.json",Normal Range
+9508,0.0011879152,0,Brian M. Rostocki,398561.00001,2021-04-22,Partner,1,,3.0,795.0,2385.0,3,4,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90966640-90966642.json",Normal Range
+6702,0.0011800659,0,C. B. Benson,58883,2023-10-31,,0,discovery,0.9,860.0,774.0,1,10,1,"da.document.New York State, New York County, Supreme Court_653490_2023_41.json",Normal Range
+2355,0.0011800659,0,C. B. Benson,58883,2023-10-31,,0,discovery,0.9,860.0,774.0,1,10,1,"da.document.New York State, New York County, Supreme Court_653490_2023_38.json",Normal Range
+10248,0.001171934,0,Stephanie Q. Chadick,398561.00001,2021-01-25,Paralegal,0,,0.9,315.0,283.5,0,1,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90364911-90364912.json",Normal Range
+11070,0.001171934,0,Stephanie Q. Chadick,398561.00001,2021-01-25,Paralegal,0,,0.9,315.0,283.5,0,1,0,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90966760-90966762.json",Normal Range
+9186,0.001171934,0,Stephanie Q. Chadick,398561.00001,2021-01-25,Paralegal,0,,0.9,315.0,283.5,0,1,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90966640-90966642.json",Normal Range
+6713,0.0011485697,0,Sydney Sgovio,58883,2023-12-01,Associate,0,discovery,0.1,365.0,36.5,4,12,0,"da.document.New York State, New York County, Supreme Court_653490_2023_41.json",Normal Range
+1077,0.001138664,0,Robert O. Saunooke,5613025297 ,2016-10-18,Partner,1,pleading,3.5,350.0,1225.0,1,10,0,"da.document.Florida State, Miami-Dade County, Eleventh Circuit Court_2016-021856-CA-01_Doc-233-Notice-Of-Filing-Affidavit-Of-Reasonable-Attorney-Fees.json",Normal Range
+1581,0.0011098858,0,Lynne A. Borchers,201700893,2017-05-12,Partner,1,discovery,5.5,440.0,2420.0,4,5,0,da.document.North Carolina Middle District Court_1_17-cv-00687_No. 369-2.json,Normal Range
+8491,0.0011035922,0,Marcin Krieger,398561.00001,2021-08-16,Associate,0,,0.8,400.0,320.0,0,8,0,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90232209-90232211.json",Normal Range
+2477,0.0010914786,0,Sydney Sgovio,58883.00424,2024-01-03,Associate,0,discovery,0.2,120.0,24.0,2,1,1,"da.document.New York State, New York County, Supreme Court_653490_2023_38.json",Normal Range
+6838,0.0010914786,0,Sydney Sgovio,58883.00424,2024-01-03,Associate,0,discovery,0.2,120.0,24.0,2,1,1,"da.document.New York State, New York County, Supreme Court_653490_2023_41.json",Normal Range
+2376,0.0010655427,0,Reyko E. Delpino,58883,2023-10-09,Paralegal,0,discovery,0.2,445.0,89.0,0,10,0,"da.document.New York State, New York County, Supreme Court_653490_2023_38.json",Normal Range
+10898,0.001052132,0,Benjamin P. Chapple,398561.00001,2021-09-10,Associate,0,,0.1,645.0,64.5,4,9,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90364911-90364912.json",Normal Range
+11790,0.001052132,0,Benjamin P. Chapple,398561.00001,2021-09-10,Associate,0,,0.1,645.0,64.5,4,9,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90966760-90966762.json",Normal Range
+11788,0.001052132,0,Benjamin P. Chapple,398561.00001,2021-09-10,Associate,0,,0.1,645.0,64.5,4,9,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90966760-90966762.json",Normal Range
+9879,0.001052132,0,Benjamin P. Chapple,398561.00001,2021-09-10,Associate,0,,0.1,645.0,64.5,4,9,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90966640-90966642.json",Normal Range
+9877,0.001052132,0,Benjamin P. Chapple,398561.00001,2021-09-10,Associate,0,,0.1,645.0,64.5,4,9,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90966640-90966642.json",Normal Range
+10896,0.001052132,0,Benjamin P. Chapple,398561.00001,2021-09-10,Associate,0,,0.1,645.0,64.5,4,9,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90364911-90364912.json",Normal Range
+12056,0.001052132,0,Benjamin P. Chapple,398561.00001,2021-09-10,Associate,0,,0.1,645.0,64.5,4,9,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90681161-90681162.json",Normal Range
+8538,0.001052132,0,Benjamin P. Chapple,398561.00001,2021-09-10,Associate,0,,0.1,645.0,64.5,4,9,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90232209-90232211.json",Normal Range
+8540,0.001052132,0,Benjamin P. Chapple,398561.00001,2021-09-10,Associate,0,,0.1,645.0,64.5,4,9,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90232209-90232211.json",Normal Range
+8822,0.001052132,0,Benjamin P. Chapple,398561.00001,2021-09-10,Associate,0,,0.1,645.0,64.5,4,9,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90966760-90966764.json",Normal Range
+7905,0.001041078,0,Caroline V. Sandy,398561.00001,2021-02-02,,0,,0.6,485.0,291.0,1,2,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90232209-90232211.json",Normal Range
+9249,0.001041078,0,Caroline V. Sandy,398561.00001,2021-02-02,,0,,0.6,485.0,291.0,1,2,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90966640-90966642.json",Normal Range
+11126,0.001041078,0,Caroline V. Sandy,398561.00001,2021-02-02,,0,,0.6,485.0,291.0,1,2,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90966760-90966762.json",Normal Range
+10260,0.001041078,0,Caroline V. Sandy,398561.00001,2021-02-02,,0,,0.6,485.0,291.0,1,2,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90364911-90364912.json",Normal Range
+11123,0.0010153373,0,Stephanie Q. Chadick,398561.00001,2021-02-02,Paralegal,0,,1.2,315.0,378.0,1,2,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90966760-90966762.json",Normal Range
+10257,0.0010153373,0,Stephanie Q. Chadick,398561.00001,2021-02-02,Paralegal,0,,1.2,315.0,378.0,1,2,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90364911-90364912.json",Normal Range
+9246,0.0010153373,0,Stephanie Q. Chadick,398561.00001,2021-02-02,Paralegal,0,,1.2,315.0,378.0,1,2,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90966640-90966642.json",Normal Range
+7902,0.0010153373,0,Stephanie Q. Chadick,398561.00001,2021-02-02,Paralegal,0,,1.2,315.0,378.0,1,2,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90232209-90232211.json",Normal Range
+1726,0.0010003522,0,Peter D. Siddoway,,2017-11-28,Partner,1,discovery,8.5,375.0,3187.5,1,11,0,da.document.North Carolina Middle District Court_1_17-cv-00687_No. 369-2.json,Normal Range
+5892,0.0009893929,0,Brett Jaffe,555333,2021-02-01,Partner,1,,1.0,850.0,850.0,0,2,1,"da.document.New York State, New York County, Supreme Court_654817_2021_153.json",Normal Range
+4068,0.0009893929,0,Brett Jaffe,555333,2021-02-01,Partner,1,,1.0,850.0,850.0,0,2,1,"da.document.New York State, New York County, Supreme Court_654817_2021_161.json",Normal Range
+1786,0.0009820107,0,Peter D. Siddoway,201700893,2018-07-13,Partner,1,discovery,6.75,375.0,2531.25,4,7,0,da.document.North Carolina Middle District Court_1_17-cv-00687_No. 369-2.json,Normal Range
+1723,0.0009615664,0,Lynne A. Borchers,,2017-11-28,Partner,1,discovery,1.5,440.0,660.0,1,11,0,da.document.North Carolina Middle District Court_1_17-cv-00687_No. 369-2.json,Normal Range
+6734,0.00093913206,0,Reyko E. Delpino,58883,2023-10-25,Paralegal,0,discovery,0.2,445.0,89.0,2,10,0,"da.document.New York State, New York County, Supreme Court_653490_2023_41.json",Normal Range
+2358,0.00093913206,0,Reyko E. Delpino,58883,2023-10-25,Paralegal,0,discovery,0.2,445.0,89.0,2,10,0,"da.document.New York State, New York County, Supreme Court_653490_2023_38.json",Normal Range
+2427,0.00092313276,0,Donald David,58883,2023-12-15,Partner,1,discovery,1.0,1000.0,1000.0,4,12,1,"da.document.New York State, New York County, Supreme Court_653490_2023_38.json",Normal Range
+6819,0.00092313276,0,Donald David,58883,2023-12-15,Partner,1,discovery,1.0,1000.0,1000.0,4,12,1,"da.document.New York State, New York County, Supreme Court_653490_2023_41.json",Normal Range
+6761,0.0009204113,0,Donald David,58883,2023-12-13,Partner,1,discovery,0.2,1000.0,200.0,2,12,0,"da.document.New York State, New York County, Supreme Court_653490_2023_41.json",Normal Range
+6759,0.0009204113,0,Donald David,58883,2023-12-13,Partner,1,discovery,0.2,1000.0,200.0,2,12,0,"da.document.New York State, New York County, Supreme Court_653490_2023_41.json",Normal Range
+6855,0.0008967283,0,Reyko E. Delpino,58883.00424,2024-01-11,Paralegal,0,discovery,0.2,200.0,40.0,3,1,0,"da.document.New York State, New York County, Supreme Court_653490_2023_41.json",Normal Range
+4850,0.00088679336,0,Brett Jaffe,555333,2022-12-19,Partner,1,post-trial,1.3,850.0,1105.0,0,12,0,"da.document.New York State, New York County, Supreme Court_654817_2021_161.json",Normal Range
+1792,0.0008796415,0,Peter D. Siddoway,201700893,2018-07-19,Partner,1,discovery,7.0,375.0,2625.0,3,7,0,da.document.North Carolina Middle District Court_1_17-cv-00687_No. 369-2.json,Normal Range
+2426,0.000854854,0,Donald David,58883,2023-12-15,Partner,1,discovery,0.7,1000.0,700.0,4,12,1,"da.document.New York State, New York County, Supreme Court_653490_2023_38.json",Normal Range
+6818,0.000854854,0,Donald David,58883,2023-12-15,Partner,1,discovery,0.7,1000.0,700.0,4,12,1,"da.document.New York State, New York County, Supreme Court_653490_2023_41.json",Normal Range
+10370,0.0008480447,0,Jonathan P. Matthews,398561.00001,2021-02-24,Litigation Technology Services Analyst,0,,0.2,475.0,95.0,2,2,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90364911-90364912.json",Normal Range
+7990,0.0008480447,0,Jonathan P. Matthews,398561.00001,2021-02-24,Litigation Technology Services Analyst,0,,0.2,475.0,95.0,2,2,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90232209-90232211.json",Normal Range
+11240,0.0008480447,0,Jonathan P. Matthews,398561.00001,2021-02-24,Litigation Technology Services Analyst,0,,0.2,475.0,95.0,2,2,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90966760-90966762.json",Normal Range
+11512,0.0008264997,0,Brian M. Rostocki,398561.00001,2021-05-12,Partner,1,,1.0,795.0,795.0,2,5,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90966760-90966762.json",Normal Range
+8831,0.0008264997,0,Brian M. Rostocki,,2021-05-12,Partner,1,,1.0,795.0,795.0,2,5,0,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90966760-90966764.json",Normal Range
+12079,0.0008264997,0,Brian M. Rostocki,398561.00001,2021-05-12,Partner,1,,1.0,795.0,795.0,2,5,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90681161-90681162.json",Normal Range
+8296,0.0008264997,0,Brian M. Rostocki,398561.00001,2021-05-12,Partner,1,,1.0,795.0,795.0,2,5,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90232209-90232211.json",Normal Range
+10605,0.0008264997,0,Brian M. Rostocki,398561.00001,2021-05-12,Partner,1,,1.0,795.0,795.0,2,5,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90364911-90364912.json",Normal Range
+9587,0.0008264997,0,Brian M. Rostocki,398561.00001,2021-05-12,Partner,1,,1.0,795.0,795.0,2,5,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90966640-90966642.json",Normal Range
+9216,0.00082492403,0,Brian M. Rostocki,398561.00001,2021-01-13,Partner,1,,1.5,795.0,1192.5,2,1,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90966640-90966642.json",Normal Range
+10213,0.00082492403,0,Brian M. Rostocki,398561.00001,2021-01-13,Partner,1,,1.5,795.0,1192.5,2,1,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90364911-90364912.json",Normal Range
+7761,0.00082492403,0,Brian M. Rostocki,398561.00001,2021-01-13,Partner,1,,1.5,795.0,1192.5,2,1,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90232209-90232211.json",Normal Range
+11055,0.00082492403,0,Brian M. Rostocki,398561.00001,2021-01-13,Partner,1,,1.5,795.0,1192.5,2,1,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90966760-90966762.json",Normal Range
+12240,0.00082492403,0,Brian M. Rostocki,398561.00001,2021-01-13,Partner,1,,1.5,795.0,1192.5,2,1,0,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90681161-90681162.json",Normal Range
+9019,0.00082492403,0,Brian M. Rostocki,398561.00001,2021-01-13,Partner,1,,1.5,795.0,1192.5,2,1,0,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90966760-90966764.json",Normal Range
+1078,0.0008073763,0,Robert O. Saunooke,5613025297 ,2016-10-18,Partner,1,pleading,2.5,350.0,875.0,1,10,0,"da.document.Florida State, Miami-Dade County, Eleventh Circuit Court_2016-021856-CA-01_Doc-233-Notice-Of-Filing-Affidavit-Of-Reasonable-Attorney-Fees.json",Normal Range
+11429,0.0007781961,0,Justin M. Forcier,398561.00001,2021-04-27,Associate,0,,5.3,590.0,3127.0,1,4,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90966760-90966762.json",Normal Range
+9545,0.0007781961,0,Justin M. Forcier,398561.00001,2021-04-27,Associate,0,,5.3,590.0,3127.0,1,4,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90966640-90966642.json",Normal Range
+10524,0.0007781961,0,Justin M. Forcier,398561.00001,2021-04-27,Associate,0,,5.3,590.0,3127.0,1,4,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90364911-90364912.json",Normal Range
+8217,0.0007781961,0,Justin M. Forcier,398561.00001,2021-04-27,Associate,0,,5.3,590.0,3127.0,1,4,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90232209-90232211.json",Normal Range
+1695,0.00077685097,0,Peter D. Siddoway,201700893,2022-02-14,Partner,1,,3.75,375.0,1406.25,0,2,0,da.document.North Carolina Middle District Court_1_17-cv-00687_No. 369-2.json,Normal Range
+9333,0.0007571456,0,Jonathan P. Matthews,398561.00001,2021-03-02,Litigation Technology Services Analyst,0,,0.6,475.0,285.0,1,3,0,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90966640-90966642.json",Normal Range
+11262,0.0007571456,0,Jonathan P. Matthews,398561.00001,2021-03-02,Litigation Technology Services Analyst,0,,0.6,475.0,285.0,1,3,0,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90966760-90966762.json",Normal Range
+7996,0.0007571456,0,Jonathan P. Matthews,398561.00001,2021-03-02,Litigation Technology Services Analyst,0,,0.6,475.0,285.0,1,3,0,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90232209-90232211.json",Normal Range
+12233,0.0007493898,0,Stephanie Q. Chadick,398561.00001,2021-01-20,Paralegal,0,,0.4,315.0,126.0,2,1,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90681161-90681162.json",Normal Range
+10182,0.0007493898,0,Stephanie Q. Chadick,398561.00001,2021-01-20,Paralegal,0,,0.4,315.0,126.0,2,1,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90364911-90364912.json",Normal Range
+11042,0.0007493898,0,Stephanie Q. Chadick,398561.00001,2021-01-20,Paralegal,0,,0.4,315.0,126.0,2,1,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90966760-90966762.json",Normal Range
+11029,0.0007493898,0,Stephanie Q. Chadick,398561.00001,2021-01-20,Paralegal,0,,0.4,315.0,126.0,2,1,0,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90966760-90966762.json",Normal Range
+10198,0.0007493898,0,Stephanie Q. Chadick,398561.00001,2021-01-20,Paralegal,0,,0.4,315.0,126.0,2,1,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90364911-90364912.json",Normal Range
+9053,0.0007493898,0,Stephanie Q. Chadick,398561.00001,2021-01-20,Paralegal,0,,0.4,315.0,126.0,2,1,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90966760-90966764.json",Normal Range
+9169,0.0007493898,0,Stephanie Q. Chadick,398561.00001,2021-01-20,Paralegal,0,,0.4,315.0,126.0,2,1,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90966640-90966642.json",Normal Range
+9026,0.0007493898,0,Stephanie Q. Chadick,398561.00001,2021-01-20,Paralegal,0,,0.4,315.0,126.0,2,1,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90966760-90966764.json",Normal Range
+12258,0.0007493898,0,Stephanie Q. Chadick,398561.00001,2021-01-20,Paralegal,0,,0.4,315.0,126.0,2,1,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90681161-90681162.json",Normal Range
+7867,0.0007493898,0,Stephanie Q. Chadick,398561.00001,2021-01-20,Paralegal,0,,0.4,315.0,126.0,2,1,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90232209-90232211.json",Normal Range
+7823,0.0007493898,0,Stephanie Q. Chadick,398561.00001,2021-01-20,Paralegal,0,,0.4,315.0,126.0,2,1,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90232209-90232211.json",Normal Range
+8923,0.00073619874,0,Jonathan P. Matthews,398561.00001,2021-04-02,Litigation Technology Services Analyst,0,,1.2,475.0,570.0,4,4,0,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90966760-90966764.json",Normal Range
+10963,0.00072451506,0,Brian M. Rostocki,398561.00001,2020-12-11,Partner,1,,0.1,745.0,74.5,4,12,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90966760-90966762.json",Normal Range
+7780,0.00072451506,0,Brian M. Rostocki,398561.00001,2020-12-11,Partner,1,,0.1,745.0,74.5,4,12,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90232209-90232211.json",Normal Range
+9137,0.00072451506,0,Brian M. Rostocki,398561.00001,2020-12-11,Partner,1,,0.1,745.0,74.5,4,12,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90966640-90966642.json",Normal Range
+10103,0.00072451506,0,Brian M. Rostocki,398561.00001,2020-12-11,Partner,1,,0.1,745.0,74.5,4,12,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90364911-90364912.json",Normal Range
+6489,0.0007240199,0,Brett Jaffe,555333,2022-08-19,Partner,1,discovery,1.0,850.0,850.0,4,8,1,"da.document.New York State, New York County, Supreme Court_654817_2021_153.json",Normal Range
+4728,0.0007240199,0,Brett Jaffe,555333,2022-08-19,Partner,1,discovery,1.0,850.0,850.0,4,8,1,"da.document.New York State, New York County, Supreme Court_654817_2021_161.json",Normal Range
+5714,0.0007240199,0,Brett Jaffe,555333,2022-08-19,Partner,1,discovery,1.0,850.0,850.0,4,8,1,"da.document.New York State, New York County, Supreme Court_654817_2021_160.json",Normal Range
+5071,0.0007100965,0,Brett Jaffe,555333,2021-09-17,Partner,1,discovery,1.0,850.0,850.0,4,9,1,"da.document.New York State, New York County, Supreme Court_654817_2021_160.json",Normal Range
+26,0.0007100965,0,Brett Jaffe,555333,2021-09-17,Partner,1,discovery,1.0,850.0,850.0,4,9,1,"da.document.New York State, New York County, Supreme Court_654817_2021_159.json",Normal Range
+9515,0.0006953244,0,Brian M. Rostocki,398561.00001,2021-04-15,Partner,1,,1.0,795.0,795.0,3,4,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90966640-90966642.json",Normal Range
+11408,0.0006953244,0,Brian M. Rostocki,398561.00001,2021-04-15,Partner,1,,1.0,795.0,795.0,3,4,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90966760-90966762.json",Normal Range
+10503,0.0006953244,0,Brian M. Rostocki,398561.00001,2021-04-15,Partner,1,,1.0,795.0,795.0,3,4,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90364911-90364912.json",Normal Range
+8168,0.0006953244,0,Brian M. Rostocki,398561.00001,2021-04-15,Partner,1,,1.0,795.0,795.0,3,4,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90232209-90232211.json",Normal Range
+6812,0.0006936761,0,Donald David,58883,2023-12-21,Partner,1,discovery,0.3,600.0,180.0,3,12,0,"da.document.New York State, New York County, Supreme Court_653490_2023_41.json",Normal Range
+6925,0.00068571966,0,Sydney Sgovio,58883.00424,2024-01-24,Associate,0,discovery,0.4,240.0,96.0,2,1,0,"da.document.New York State, New York County, Supreme Court_653490_2023_41.json",Normal Range
+2029,0.0006822697,0,Daniel Diffley,061536.493969,2017-10-25,Partner,1,pre-trial,0.5,720.0,360.0,2,10,0,"da.document.Florida State, Miami-Dade County, Eleventh Circuit Court_2016-021856-CA-01_Doc-235-Affidavit-for-Atty-Fee-and-Costs.json",Normal Range
+728,0.0006709427,0,Brett Jaffe,555333,2022-12-20,Partner,1,post-trial,1.3,850.0,1105.0,1,12,0,"da.document.New York State, New York County, Supreme Court_654817_2021_159.json",Normal Range
+6723,0.00066906016,0,Donald David,58883,2023-10-11,Partner,1,discovery,0.1,445.0,44.5,2,10,1,"da.document.New York State, New York County, Supreme Court_653490_2023_41.json",Normal Range
+2378,0.00066906016,0,Donald David,58883,2023-10-11,Partner,1,discovery,0.1,445.0,44.5,2,10,1,"da.document.New York State, New York County, Supreme Court_653490_2023_38.json",Normal Range
+1189,0.00066754606,0,Daniel Diffley,061536.493969,2018-12-06,Partner,1,post-trial,0.9,765.0,688.5,3,12,0,"da.document.Florida State, Miami-Dade County, Eleventh Circuit Court_2016-021856-CA-01_Doc-233-Notice-Of-Filing-Affidavit-Of-Reasonable-Attorney-Fees.json",Normal Range
+1798,0.00066252955,0,Lynne A. Borchers,201700893,2018-07-24,Partner,1,discovery,2.0,440.0,880.0,1,7,0,da.document.North Carolina Middle District Court_1_17-cv-00687_No. 369-2.json,Normal Range
+9135,0.0006512962,0,Brian M. Rostocki,398561.00001,2020-12-10,Partner,1,,0.2,745.0,149.0,3,12,0,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90966640-90966642.json",Normal Range
+10101,0.0006512962,0,Brian M. Rostocki,398561.00001,2020-12-10,Partner,1,,0.2,745.0,149.0,3,12,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90364911-90364912.json",Normal Range
+10961,0.0006512962,0,Brian M. Rostocki,398561.00001,2020-12-10,Partner,1,,0.2,745.0,149.0,3,12,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90966760-90966762.json",Normal Range
+7778,0.0006512962,0,Brian M. Rostocki,398561.00001,2020-12-10,Partner,1,,0.2,745.0,149.0,3,12,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90232209-90232211.json",Normal Range
+1194,0.0006496266,0,George Abney,061536.493969,2018-12-14,Partner,1,post-trial,0.3,795.0,238.5,4,12,1,"da.document.Florida State, Miami-Dade County, Eleventh Circuit Court_2016-021856-CA-01_Doc-233-Notice-Of-Filing-Affidavit-Of-Reasonable-Attorney-Fees.json",Normal Range
+2090,0.0006496266,0,George Abney,061536.493969,2018-12-14,Partner,1,post-trial,0.3,795.0,238.5,4,12,1,"da.document.Florida State, Miami-Dade County, Eleventh Circuit Court_2016-021856-CA-01_Doc-235-Affidavit-for-Atty-Fee-and-Costs.json",Normal Range
+1864,0.0006178278,0,Lynne A. Borchers,201700893,2019-12-31,Partner,1,pre-trial,0.5,440.0,220.0,1,12,0,da.document.North Carolina Middle District Court_1_17-cv-00687_No. 369-2.json,Normal Range
+2076,0.00061712554,0,George Abney,061536.493969,2018-05-23,Partner,1,post-trial,0.3,795.0,238.5,2,5,0,"da.document.Florida State, Miami-Dade County, Eleventh Circuit Court_2016-021856-CA-01_Doc-235-Affidavit-for-Atty-Fee-and-Costs.json",Normal Range
+1184,0.00061712554,0,George Abney,061536.493969,2018-05-23,Partner,1,post-trial,0.3,795.0,238.5,2,5,0,"da.document.Florida State, Miami-Dade County, Eleventh Circuit Court_2016-021856-CA-01_Doc-233-Notice-Of-Filing-Affidavit-Of-Reasonable-Attorney-Fees.json",Normal Range
+10721,0.0006153662,0,Justin M. Forcier,398561.00001,2021-06-09,Associate,0,,2.1,590.0,1239.0,2,6,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90364911-90364912.json",Normal Range
+11600,0.0006153662,0,Justin M. Forcier,398561.00001,2021-06-09,Associate,0,,2.1,590.0,1239.0,2,6,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90966760-90966762.json",Normal Range
+9713,0.0006153662,0,Justin M. Forcier,398561.00001,2021-06-09,Associate,0,,2.1,590.0,1239.0,2,6,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90966640-90966642.json",Normal Range
+8377,0.0006153662,0,Justin M. Forcier,398561.00001,2021-06-09,Associate,0,,2.1,590.0,1239.0,2,6,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90232209-90232211.json",Normal Range
+1088,0.0006050606,0,Robert O. Saunooke,5613025297 ,2017-07-25,Partner,1,discovery,2.5,350.0,875.0,1,7,0,"da.document.Florida State, Miami-Dade County, Eleventh Circuit Court_2016-021856-CA-01_Doc-233-Notice-Of-Filing-Affidavit-Of-Reasonable-Attorney-Fees.json",Normal Range
+6918,0.0005948798,0,Donald David,58883.00424,2024-01-24,Partner,1,discovery,0.3,300.0,90.0,2,1,0,"da.document.New York State, New York County, Supreme Court_653490_2023_41.json",Normal Range
+1134,0.0005884049,0,George Abney,061536.493969,2018-08-09,Partner,1,post-trial,1.0,795.0,795.0,3,8,0,"da.document.Florida State, Miami-Dade County, Eleventh Circuit Court_2016-021856-CA-01_Doc-233-Notice-Of-Filing-Affidavit-Of-Reasonable-Attorney-Fees.json",Normal Range
+7827,0.00058247626,0,Justin M. Forcier,398561.00001,2021-01-21,Associate,0,,4.5,590.0,2655.0,3,1,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90232209-90232211.json",Normal Range
+9173,0.00058247626,0,Justin M. Forcier,398561.00001,2021-01-21,Associate,0,,4.5,590.0,2655.0,3,1,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90966640-90966642.json",Normal Range
+11033,0.00058247626,0,Justin M. Forcier,398561.00001,2021-01-21,Associate,0,,4.5,590.0,2655.0,3,1,0,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90966760-90966762.json",Normal Range
+10202,0.00058247626,0,Justin M. Forcier,398561.00001,2021-01-21,Associate,0,,4.5,590.0,2655.0,3,1,0,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90364911-90364912.json",Normal Range
+12241,0.0005819682,0,Stephanie Q. Chadick,398561.00001,2021-01-14,Paralegal,0,,0.6,315.0,189.0,3,1,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90681161-90681162.json",Normal Range
+9020,0.0005819682,0,Stephanie Q. Chadick,398561.00001,2021-01-14,Paralegal,0,,0.6,315.0,189.0,3,1,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90966760-90966764.json",Normal Range
+9217,0.0005819682,0,Stephanie Q. Chadick,398561.00001,2021-01-14,Paralegal,0,,0.6,315.0,189.0,3,1,0,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90966640-90966642.json",Normal Range
+11056,0.0005819682,0,Stephanie Q. Chadick,398561.00001,2021-01-14,Paralegal,0,,0.6,315.0,189.0,3,1,0,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90966760-90966762.json",Normal Range
+12126,0.0005793328,0,Brian M. Rostocki,398561.00001,2021-03-19,Partner,1,,0.2,795.0,159.0,4,3,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90681161-90681162.json",Normal Range
+8051,0.0005793328,0,Brian M. Rostocki,398561.00001,2021-03-19,Partner,1,,0.2,795.0,159.0,4,3,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90232209-90232211.json",Normal Range
+8931,0.0005793328,0,Brian M. Rostocki,398561.00001,2021-03-19,Partner,1,,0.2,795.0,159.0,4,3,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90966760-90966764.json",Normal Range
+10407,0.0005793328,0,Brian M. Rostocki,398561.00001,2021-03-19,Partner,1,,0.2,795.0,159.0,4,3,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90364911-90364912.json",Normal Range
+9378,0.0005793328,0,Brian M. Rostocki,398561.00001,2021-03-19,Partner,1,,0.2,795.0,159.0,4,3,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90966640-90966642.json",Normal Range
+1783,0.0005745883,0,Lynne A. Borchers,201700893,2018-07-11,Partner,1,discovery,2.0,440.0,880.0,2,7,0,da.document.North Carolina Middle District Court_1_17-cv-00687_No. 369-2.json,Normal Range
+9511,0.0005712333,0,Brian M. Rostocki,398561.00001,2021-04-23,Partner,1,,0.3,795.0,238.5,4,4,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90966640-90966642.json",Normal Range
+8184,0.0005712333,0,Brian M. Rostocki,398561.00001,2021-04-23,Partner,1,,0.3,795.0,238.5,4,4,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90232209-90232211.json",Normal Range
+11393,0.0005712333,0,Brian M. Rostocki,398561.00001,2021-04-23,Partner,1,,0.3,795.0,238.5,4,4,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90966760-90966762.json",Normal Range
+10488,0.0005712333,0,Brian M. Rostocki,398561.00001,2021-04-23,Partner,1,,0.3,795.0,238.5,4,4,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90364911-90364912.json",Normal Range
+9786,0.0005673282,0,Benjamin P. Chapple,398561.00001,2021-07-07,Associate,0,,0.2,645.0,129.0,2,7,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90966640-90966642.json",Normal Range
+11652,0.0005673282,0,Benjamin P. Chapple,398561.00001,2021-07-07,Associate,0,,0.2,645.0,129.0,2,7,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90966760-90966762.json",Normal Range
+10768,0.0005673282,0,Benjamin P. Chapple,398561.00001,2021-07-07,Associate,0,,0.2,645.0,129.0,2,7,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90364911-90364912.json",Normal Range
+8448,0.0005673282,0,Benjamin P. Chapple,398561.00001,2021-07-07,Associate,0,,0.2,645.0,129.0,2,7,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90232209-90232211.json",Normal Range
+1730,0.0005523829,0,Lynne A. Borchers,201700893,2017-12-27,Partner,1,discovery,1.5,440.0,660.0,2,12,0,da.document.North Carolina Middle District Court_1_17-cv-00687_No. 369-2.json,Normal Range
+6606,0.00052317895,0,Donald David,58883,2023-08-31,Partner,1,pleading,0.2,1000.0,200.0,3,8,0,"da.document.New York State, New York County, Supreme Court_653490_2023_41.json",Normal Range
+11619,0.00051072903,0,Brian M. Rostocki,398561.00001,2021-06-22,Partner,1,,0.2,795.0,159.0,1,6,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90966760-90966762.json",Normal Range
+9696,0.00051072903,0,Brian M. Rostocki,398561.00001,2021-06-22,Partner,1,,0.2,795.0,159.0,1,6,0,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90966640-90966642.json",Normal Range
+8368,0.00051072903,0,Brian M. Rostocki,398561.00001,2021-06-22,Partner,1,,0.2,795.0,159.0,1,6,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90232209-90232211.json",Normal Range
+10743,0.00051072903,0,Brian M. Rostocki,398561.00001,2021-06-22,Partner,1,,0.2,795.0,159.0,1,6,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90364911-90364912.json",Normal Range
+1805,0.00050123734,0,Lynne A. Borchers,201700893,2018-11-01,Partner,1,discovery,1.0,928.93,928.93,3,11,0,da.document.North Carolina Middle District Court_1_17-cv-00687_No. 369-2.json,Normal Range
+25,0.00049384305,0,Brett Jaffe,555333,2021-09-15,Partner,1,discovery,1.2,850.0,1020.0,2,9,1,"da.document.New York State, New York County, Supreme Court_654817_2021_159.json",Normal Range
+5070,0.00049384305,0,Brett Jaffe,555333,2021-09-15,Partner,1,discovery,1.2,850.0,1020.0,2,9,1,"da.document.New York State, New York County, Supreme Court_654817_2021_160.json",Normal Range
+5534,0.0004917435,0,Joanna Schorr,555333,2022-04-29,Senior Associate,0,discovery,4.9,725.0,3552.5000000000005,4,4,1,"da.document.New York State, New York County, Supreme Court_654817_2021_160.json",Normal Range
+6279,0.0004917435,0,Joanna Schorr,555333,2022-04-29,Senior Associate,0,discovery,4.9,725.0,3552.5000000000005,4,4,1,"da.document.New York State, New York County, Supreme Court_654817_2021_153.json",Normal Range
+413,0.0004917435,0,Joanna Schorr,555333,2022-04-29,Senior Associate,0,discovery,4.9,725.0,3552.5000000000005,4,4,1,"da.document.New York State, New York County, Supreme Court_654817_2021_159.json",Normal Range
+11671,0.00048136758,0,Justin M. Forcier,398561.00001,2021-08-12,Associate,0,,2.6,590.0,1534.0,3,8,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90966760-90966762.json",Normal Range
+9779,0.00048136758,0,Justin M. Forcier,398561.00001,2021-08-12,Associate,0,,2.6,590.0,1534.0,3,8,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90966640-90966642.json",Normal Range
+10787,0.00048136758,0,Justin M. Forcier,398561.00001,2021-08-12,Associate,0,,2.6,590.0,1534.0,3,8,0,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90364911-90364912.json",Normal Range
+2033,0.0004766973,0,George Abney,061536.493969,2017-10-27,Partner,1,pre-trial,0.3,760.0,228.0,4,10,0,"da.document.Florida State, Miami-Dade County, Eleventh Circuit Court_2016-021856-CA-01_Doc-235-Affidavit-for-Atty-Fee-and-Costs.json",Normal Range
+2077,0.0004727618,0,George Abney,061536.493969,2018-05-25,Partner,1,post-trial,0.2,795.0,159.0,4,5,0,"da.document.Florida State, Miami-Dade County, Eleventh Circuit Court_2016-021856-CA-01_Doc-235-Affidavit-for-Atty-Fee-and-Costs.json",Normal Range
+1185,0.0004727618,0,George Abney,061536.493969,2018-05-25,Partner,1,post-trial,0.2,795.0,159.0,4,5,0,"da.document.Florida State, Miami-Dade County, Eleventh Circuit Court_2016-021856-CA-01_Doc-233-Notice-Of-Filing-Affidavit-Of-Reasonable-Attorney-Fees.json",Normal Range
+9268,0.00046149283,0,Caroline V. Sandy,398561.00001,2021-02-04,,0,,0.3,485.0,145.5,3,2,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90966640-90966642.json",Normal Range
+10319,0.00046149283,0,Caroline V. Sandy,398561.00001,2021-02-04,,0,,0.3,485.0,145.5,3,2,0,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90364911-90364912.json",Normal Range
+11168,0.00046149283,0,Caroline V. Sandy,398561.00001,2021-02-04,,0,,0.3,485.0,145.5,3,2,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90966760-90966762.json",Normal Range
+1885,0.00044195759,0,Peter D. Siddoway,201700893,2020-03-02,Partner,1,pre-trial,4.0,375.0,1500.0,0,3,0,da.document.North Carolina Middle District Court_1_17-cv-00687_No. 369-2.json,Normal Range
+1156,0.00043888038,0,George Abney,061536.493969,2018-07-26,Partner,1,post-trial,0.7,795.0,556.5,3,7,0,"da.document.Florida State, Miami-Dade County, Eleventh Circuit Court_2016-021856-CA-01_Doc-233-Notice-Of-Filing-Affidavit-Of-Reasonable-Attorney-Fees.json",Normal Range
+9747,0.0004383721,0,Justin M. Forcier,398561.00001,2021-07-21,Associate,0,,1.7,590.0,1003.0,2,7,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90966640-90966642.json",Normal Range
+10795,0.0004383721,0,Justin M. Forcier,398561.00001,2021-07-21,Associate,0,,1.7,590.0,1003.0,2,7,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90364911-90364912.json",Normal Range
+11641,0.0004383721,0,Justin M. Forcier,398561.00001,2021-07-21,Associate,0,,1.7,590.0,1003.0,2,7,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90966760-90966762.json",Normal Range
+2369,0.0004365705,0,A. R. Hanke,58883,2023-10-26,,0,discovery,1.6,445.0,712.0,3,10,1,"da.document.New York State, New York County, Supreme Court_653490_2023_38.json",Normal Range
+6745,0.0004365705,0,A. R. Hanke,58883,2023-10-26,,0,discovery,1.6,445.0,712.0,3,10,1,"da.document.New York State, New York County, Supreme Court_653490_2023_41.json",Normal Range
+10256,0.00042956113,0,Brian M. Rostocki,398561.00001,2021-01-27,Partner,1,,0.3,795.0,238.5,2,1,0,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90364911-90364912.json",Normal Range
+9194,0.00042956113,0,Brian M. Rostocki,398561.00001,2021-01-27,Partner,1,,0.3,795.0,238.5,2,1,0,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90966640-90966642.json",Normal Range
+8298,0.00042443417,0,Justin M. Forcier,398561.00001,2021-05-12,Associate,0,,2.1,590.0,1239.0,2,5,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90232209-90232211.json",Normal Range
+9589,0.00042443417,0,Justin M. Forcier,398561.00001,2021-05-12,Associate,0,,2.1,590.0,1239.0,2,5,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90966640-90966642.json",Normal Range
+11514,0.00042443417,0,Justin M. Forcier,398561.00001,2021-05-12,Associate,0,,2.1,590.0,1239.0,2,5,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90966760-90966762.json",Normal Range
+10607,0.00042443417,0,Justin M. Forcier,398561.00001,2021-05-12,Associate,0,,2.1,590.0,1239.0,2,5,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90364911-90364912.json",Normal Range
+8255,0.00041836573,0,Brian M. Rostocki,398561.00001,2021-04-29,Partner,1,,0.2,795.0,159.0,3,4,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90232209-90232211.json",Normal Range
+11436,0.00041836573,0,Brian M. Rostocki,398561.00001,2021-04-29,Partner,1,,0.2,795.0,159.0,3,4,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90966760-90966762.json",Normal Range
+10601,0.00041836573,0,Brian M. Rostocki,398561.00001,2021-04-29,Partner,1,,0.2,795.0,159.0,3,4,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90364911-90364912.json",Normal Range
+9530,0.00041836573,0,Brian M. Rostocki,398561.00001,2021-04-29,Partner,1,,0.2,795.0,159.0,3,4,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90966640-90966642.json",Normal Range
+8116,0.00041687733,0,Brian M. Rostocki,398561.00001,2021-03-31,Partner,1,,0.2,795.0,159.0,2,3,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90232209-90232211.json",Normal Range
+11406,0.00041687733,0,Brian M. Rostocki,398561.00001,2021-03-31,Partner,1,,0.2,795.0,159.0,2,3,0,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90966760-90966762.json",Normal Range
+9423,0.00041687733,0,Brian M. Rostocki,398561.00001,2021-03-31,Partner,1,,0.2,795.0,159.0,2,3,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90966640-90966642.json",Normal Range
+10461,0.00041687733,0,Brian M. Rostocki,398561.00001,2021-03-31,Partner,1,,0.2,795.0,159.0,2,3,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90364911-90364912.json",Normal Range
+7814,0.00040442636,0,Benjamin P. Chapple,398561.00001,2021-01-24,Associate,0,,0.2,645.0,129.0,6,1,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90232209-90232211.json",Normal Range
+9201,0.00040442636,0,Benjamin P. Chapple,398561.00001,2021-01-24,Associate,0,,0.2,645.0,129.0,6,1,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90966640-90966642.json",Normal Range
+11091,0.00040442636,0,Benjamin P. Chapple,398561.00001,2021-01-24,Associate,0,,0.2,645.0,129.0,6,1,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90966760-90966762.json",Normal Range
+10222,0.00040442636,0,Benjamin P. Chapple,398561.00001,2021-01-24,Associate,0,,0.2,645.0,129.0,6,1,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90364911-90364912.json",Normal Range
+9030,0.00040422296,0,Brian M. Rostocki,,2021-01-15,Partner,1,,0.5,795.0,397.5,4,1,0,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90966760-90966764.json",Normal Range
+10433,0.00039753466,0,Justin M. Forcier,398561.00001,2021-03-24,Associate,0,,1.1,590.0,649.0,2,3,0,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90364911-90364912.json",Normal Range
+9405,0.00039753466,0,Justin M. Forcier,398561.00001,2021-03-24,Associate,0,,1.1,590.0,649.0,2,3,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90966640-90966642.json",Normal Range
+8099,0.00039753466,0,Justin M. Forcier,398561.00001,2021-03-24,Associate,0,,1.1,590.0,649.0,2,3,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90232209-90232211.json",Normal Range
+11319,0.00039753466,0,Justin M. Forcier,398561.00001,2021-03-24,Associate,0,,1.1,590.0,649.0,2,3,0,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90966760-90966762.json",Normal Range
+1089,0.00037164707,0,Robert O. Saunooke,5613025297 ,2017-07-25,Partner,1,discovery,1.1,350.0,385.00000000000006,1,7,0,"da.document.Florida State, Miami-Dade County, Eleventh Circuit Court_2016-021856-CA-01_Doc-233-Notice-Of-Filing-Affidavit-Of-Reasonable-Attorney-Fees.json",Normal Range
+1883,0.00036755332,0,Peter D. Siddoway,201700893,2020-03-02,Partner,1,pre-trial,5.5,375.0,2062.5,0,3,0,da.document.North Carolina Middle District Court_1_17-cv-00687_No. 369-2.json,Normal Range
+8420,0.0003637108,0,Brian M. Rostocki,398561.00001,2021-08-06,Partner,1,,0.1,795.0,79.5,4,8,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90232209-90232211.json",Normal Range
+11690,0.0003637108,0,Brian M. Rostocki,398561.00001,2021-08-06,Partner,1,,0.1,795.0,79.5,4,8,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90966760-90966762.json",Normal Range
+9772,0.0003637108,0,Brian M. Rostocki,398561.00001,2021-08-06,Partner,1,,0.1,795.0,79.5,4,8,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90966640-90966642.json",Normal Range
+10810,0.0003637108,0,Brian M. Rostocki,398561.00001,2021-08-06,Partner,1,,0.1,795.0,79.5,4,8,0,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90364911-90364912.json",Normal Range
+7811,0.00036348117,0,Brian M. Rostocki,398561.00001,2021-01-22,Partner,1,,0.3,795.0,238.5,4,1,0,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90232209-90232211.json",Normal Range
+10219,0.00036348117,0,Brian M. Rostocki,398561.00001,2021-01-22,Partner,1,,0.3,795.0,238.5,4,1,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90364911-90364912.json",Normal Range
+9198,0.00036348117,0,Brian M. Rostocki,398561.00001,2021-01-22,Partner,1,,0.3,795.0,238.5,4,1,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90966640-90966642.json",Normal Range
+11088,0.00036348117,0,Brian M. Rostocki,398561.00001,2021-01-22,Partner,1,,0.3,795.0,238.5,4,1,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90966760-90966762.json",Normal Range
+9884,0.00035802444,0,Justin M. Forcier,398561.00001,2021-09-14,Associate,0,,0.1,590.0,59.0,1,9,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90966640-90966642.json",Normal Range
+9885,0.00035802444,0,Justin M. Forcier,398561.00001,2021-09-14,Associate,0,,0.1,590.0,59.0,1,9,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90966640-90966642.json",Normal Range
+10903,0.00035802444,0,Justin M. Forcier,398561.00001,2021-09-14,Associate,0,,0.1,590.0,59.0,1,9,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90364911-90364912.json",Normal Range
+11796,0.00035802444,0,Justin M. Forcier,398561.00001,2021-09-14,Associate,0,,0.1,590.0,59.0,1,9,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90966760-90966762.json",Normal Range
+8546,0.00035802444,0,Justin M. Forcier,398561.00001,2021-09-14,Associate,0,,0.1,590.0,59.0,1,9,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90232209-90232211.json",Normal Range
+10904,0.00035802444,0,Justin M. Forcier,398561.00001,2021-09-14,Associate,0,,0.1,590.0,59.0,1,9,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90364911-90364912.json",Normal Range
+10606,0.00035152794,0,Justin M. Forcier,398561.00001,2021-05-12,Associate,0,,5.1,590.0,3009.0,2,5,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90364911-90364912.json",Normal Range
+8297,0.00035152794,0,Justin M. Forcier,398561.00001,2021-05-12,Associate,0,,5.1,590.0,3009.0,2,5,0,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90232209-90232211.json",Normal Range
+11513,0.00035152794,0,Justin M. Forcier,398561.00001,2021-05-12,Associate,0,,5.1,590.0,3009.0,2,5,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90966760-90966762.json",Normal Range
+9588,0.00035152794,0,Justin M. Forcier,398561.00001,2021-05-12,Associate,0,,5.1,590.0,3009.0,2,5,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90966640-90966642.json",Normal Range
+8555,0.0003514817,0,Stephanie Q. Chadick,398561.00001,2020-11-20,Paralegal,0,,0.2,295.0,59.0,4,11,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90232209-90232211.json",Normal Range
+10882,0.0003514817,0,Stephanie Q. Chadick,398561.00001,2020-11-20,Paralegal,0,,0.2,295.0,59.0,4,11,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90364911-90364912.json",Normal Range
+9906,0.0003514817,0,Stephanie Q. Chadick,398561.00001,2020-11-20,Paralegal,0,,0.2,295.0,59.0,4,11,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90966640-90966642.json",Normal Range
+11785,0.0003514817,0,Stephanie Q. Chadick,398561.00001,2020-11-20,Paralegal,0,,0.2,295.0,59.0,4,11,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90966760-90966762.json",Normal Range
+9014,0.00034715032,0,Stephanie Q. Chadick,398561.00001,2021-01-12,Paralegal,0,,0.3,315.0,94.5,1,1,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90966760-90966764.json",Normal Range
+7756,0.00034715032,0,Stephanie Q. Chadick,398561.00001,2021-01-12,Paralegal,0,,0.3,315.0,94.5,1,1,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90232209-90232211.json",Normal Range
+10208,0.00034715032,0,Stephanie Q. Chadick,398561.00001,2021-01-12,Paralegal,0,,0.3,315.0,94.5,1,1,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90364911-90364912.json",Normal Range
+9211,0.00034715032,0,Stephanie Q. Chadick,398561.00001,2021-01-12,Paralegal,0,,0.3,315.0,94.5,1,1,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90966640-90966642.json",Normal Range
+12235,0.00034715032,0,Stephanie Q. Chadick,398561.00001,2021-01-12,Paralegal,0,,0.3,315.0,94.5,1,1,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90681161-90681162.json",Normal Range
+11050,0.00034715032,0,Stephanie Q. Chadick,398561.00001,2021-01-12,Paralegal,0,,0.3,315.0,94.5,1,1,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90966760-90966762.json",Normal Range
+12214,0.00033127557,0,Benjamin P. Chapple,398561.00001,2021-01-07,Associate,0,,0.3,590.0,177.0,3,1,0,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90681161-90681162.json",Normal Range
+9027,0.00032704716,0,Justin M. Forcier,,2021-01-14,Associate,0,,1.7,590.0,1003.0,3,1,0,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90966760-90966764.json",Normal Range
+9532,0.00032344303,0,Benjamin P. Chapple,398561.00001,2021-04-29,Associate,0,,0.7,645.0,451.49999999999994,3,4,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90966640-90966642.json",Normal Range
+8257,0.00032344303,0,Benjamin P. Chapple,398561.00001,2021-04-29,Associate,0,,0.7,645.0,451.49999999999994,3,4,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90232209-90232211.json",Normal Range
+10603,0.00032344303,0,Benjamin P. Chapple,398561.00001,2021-04-29,Associate,0,,0.7,645.0,451.49999999999994,3,4,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90364911-90364912.json",Normal Range
+11438,0.00032344303,0,Benjamin P. Chapple,398561.00001,2021-04-29,Associate,0,,0.7,645.0,451.49999999999994,3,4,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90966760-90966762.json",Normal Range
+9273,0.00031629117,0,Stephanie Q. Chadick,398561.00001,2021-02-05,Paralegal,0,,0.6,315.0,189.0,4,2,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90966640-90966642.json",Normal Range
+10324,0.00031629117,0,Stephanie Q. Chadick,398561.00001,2021-02-05,Paralegal,0,,0.6,315.0,189.0,4,2,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90364911-90364912.json",Normal Range
+12153,0.00031629117,0,Stephanie Q. Chadick,398561.00001,2021-02-05,Paralegal,0,,0.6,315.0,189.0,4,2,0,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90681161-90681162.json",Normal Range
+11173,0.00031629117,0,Stephanie Q. Chadick,398561.00001,2021-02-05,Paralegal,0,,0.6,315.0,189.0,4,2,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90966760-90966762.json",Normal Range
+7901,0.00031629117,0,Stephanie Q. Chadick,398561.00001,2021-02-05,Paralegal,0,,0.6,315.0,189.0,4,2,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90232209-90232211.json",Normal Range
+1076,0.00031569233,0,Robert O. Saunooke,5613025297 ,2016-10-12,Partner,1,pleading,2.0,350.0,700.0,2,10,0,"da.document.Florida State, Miami-Dade County, Eleventh Circuit Court_2016-021856-CA-01_Doc-233-Notice-Of-Filing-Affidavit-Of-Reasonable-Attorney-Fees.json",Normal Range
+10792,0.00031520874,0,Justin M. Forcier,398561.00001,2021-08-13,Associate,0,,1.2,590.0,708.0,4,8,0,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90364911-90364912.json",Normal Range
+11676,0.00031520874,0,Justin M. Forcier,398561.00001,2021-08-13,Associate,0,,1.2,590.0,708.0,4,8,0,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90966760-90966762.json",Normal Range
+9309,0.00031415274,0,Justin M. Forcier,398561.00001,2021-02-16,Associate,0,,3.7,590.0,2183.0,1,2,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90966640-90966642.json",Normal Range
+7922,0.00031415274,0,Justin M. Forcier,398561.00001,2021-02-16,Associate,0,,3.7,590.0,2183.0,1,2,0,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90232209-90232211.json",Normal Range
+10338,0.00031415274,0,Justin M. Forcier,398561.00001,2021-02-16,Associate,0,,3.7,590.0,2183.0,1,2,0,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90364911-90364912.json",Normal Range
+11185,0.00031415274,0,Justin M. Forcier,398561.00001,2021-02-16,Associate,0,,3.7,590.0,2183.0,1,2,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90966760-90966762.json",Normal Range
+9792,0.00030859793,0,Brian M. Rostocki,398561.00001,2021-07-14,Partner,1,,0.1,795.0,79.5,2,7,0,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90966640-90966642.json",Normal Range
+10204,0.0003082624,0,Benjamin P. Chapple,398561.00001,2021-01-11,Associate,0,,0.1,645.0,64.5,0,1,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90364911-90364912.json",Normal Range
+10224,0.0003082624,0,Benjamin P. Chapple,398561.00001,2021-01-25,Associate,0,,0.1,645.0,64.5,0,1,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90364911-90364912.json",Normal Range
+10225,0.0003082624,0,Benjamin P. Chapple,398561.00001,2021-01-25,Associate,0,,0.1,645.0,64.5,0,1,0,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90364911-90364912.json",Normal Range
+7816,0.0003082624,0,Benjamin P. Chapple,398561.00001,2021-01-25,Associate,0,,0.1,645.0,64.5,0,1,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90232209-90232211.json",Normal Range
+7752,0.0003082624,0,Benjamin P. Chapple,398561.00001,2021-01-11,Associate,0,,0.1,645.0,64.5,0,1,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90232209-90232211.json",Normal Range
+11046,0.0003082624,0,Benjamin P. Chapple,398561.00001,2021-01-11,Associate,0,,0.1,645.0,64.5,0,1,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90966760-90966762.json",Normal Range
+9207,0.0003082624,0,Benjamin P. Chapple,398561.00001,2021-01-11,Associate,0,,0.1,645.0,64.5,0,1,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90966640-90966642.json",Normal Range
+9203,0.0003082624,0,Benjamin P. Chapple,398561.00001,2021-01-25,Associate,0,,0.1,645.0,64.5,0,1,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90966640-90966642.json",Normal Range
+11093,0.0003082624,0,Benjamin P. Chapple,398561.00001,2021-01-25,Associate,0,,0.1,645.0,64.5,0,1,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90966760-90966762.json",Normal Range
+10460,0.0003066203,0,Justin M. Forcier,398561.00001,2021-03-31,Associate,0,,0.3,590.0,177.0,2,3,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90364911-90364912.json",Normal Range
+9422,0.0003066203,0,Justin M. Forcier,398561.00001,2021-03-31,Associate,0,,0.3,590.0,177.0,2,3,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90966640-90966642.json",Normal Range
+8115,0.0003066203,0,Justin M. Forcier,398561.00001,2021-03-31,Associate,0,,0.3,590.0,177.0,2,3,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90232209-90232211.json",Normal Range
+11405,0.0003066203,0,Justin M. Forcier,398561.00001,2021-03-31,Associate,0,,0.3,590.0,177.0,2,3,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90966760-90966762.json",Normal Range
+9086,0.0003047374,0,Benjamin P. Chapple,398561.00001,2020-12-02,Associate,0,,0.1,585.0,58.5,2,12,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90966640-90966642.json",Normal Range
+7740,0.0003047374,0,Benjamin P. Chapple,398561.00001,2020-12-02,Associate,0,,0.1,585.0,58.5,2,12,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90232209-90232211.json",Normal Range
+10150,0.0003047374,0,Benjamin P. Chapple,398561.00001,2020-12-02,Associate,0,,0.1,585.0,58.5,2,12,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90364911-90364912.json",Normal Range
+10956,0.0003047374,0,Benjamin P. Chapple,398561.00001,2020-12-02,Associate,0,,0.1,585.0,58.5,2,12,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90966760-90966762.json",Normal Range
+11292,0.00030231202,0,Brian M. Rostocki,398561.00001,2021-03-23,Partner,1,,1.0,795.0,795.0,1,3,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90966760-90966762.json",Normal Range
+8081,0.00030231202,0,Brian M. Rostocki,398561.00001,2021-03-23,Partner,1,,1.0,795.0,795.0,1,3,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90232209-90232211.json",Normal Range
+9398,0.00030231202,0,Brian M. Rostocki,398561.00001,2021-03-23,Partner,1,,1.0,795.0,795.0,1,3,0,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90966640-90966642.json",Normal Range
+10427,0.00030231202,0,Brian M. Rostocki,398561.00001,2021-03-23,Partner,1,,1.0,795.0,795.0,1,3,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90364911-90364912.json",Normal Range
+12135,0.000300627,0,Stephanie Q. Chadick,398561.00001,2021-03-11,Paralegal,0,,0.2,315.0,63.0,3,3,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90681161-90681162.json",Normal Range
+11271,0.000300627,0,Stephanie Q. Chadick,398561.00001,2021-03-11,Paralegal,0,,0.2,315.0,63.0,3,3,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90966760-90966762.json",Normal Range
+8951,0.000300627,0,Stephanie Q. Chadick,398561.00001,2021-03-11,Paralegal,0,,0.2,315.0,63.0,3,3,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90966760-90966764.json",Normal Range
+9342,0.000300627,0,Stephanie Q. Chadick,398561.00001,2021-03-11,Paralegal,0,,0.2,315.0,63.0,3,3,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90966640-90966642.json",Normal Range
+8033,0.000300627,0,Stephanie Q. Chadick,398561.00001,2021-03-11,Paralegal,0,,0.2,315.0,63.0,3,3,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90232209-90232211.json",Normal Range
+10397,0.000300627,0,Stephanie Q. Chadick,398561.00001,2021-03-11,Paralegal,0,,0.2,315.0,63.0,3,3,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90364911-90364912.json",Normal Range
+9794,0.00029407736,0,Justin M. Forcier,398561.00001,2021-07-15,Associate,0,,0.3,590.0,177.0,3,7,0,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90966640-90966642.json",Normal Range
+11130,0.00029119776,0,Brian M. Rostocki,398561.00001,2021-02-03,Partner,1,,0.2,795.0,159.0,2,2,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90966760-90966762.json",Normal Range
+10264,0.00029119776,0,Brian M. Rostocki,398561.00001,2021-02-03,Partner,1,,0.2,795.0,159.0,2,2,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90364911-90364912.json",Normal Range
+7909,0.00029119776,0,Brian M. Rostocki,398561.00001,2021-02-03,Partner,1,,0.2,795.0,159.0,2,2,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90232209-90232211.json",Normal Range
+9253,0.00029119776,0,Brian M. Rostocki,398561.00001,2021-02-03,Partner,1,,0.2,795.0,159.0,2,2,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90966640-90966642.json",Normal Range
+10726,0.0002891835,0,Justin M. Forcier,398561.00001,2021-06-15,Associate,0,,0.2,590.0,118.0,1,6,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90364911-90364912.json",Normal Range
+8382,0.0002891835,0,Justin M. Forcier,398561.00001,2021-06-15,Associate,0,,0.2,590.0,118.0,1,6,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90232209-90232211.json",Normal Range
+11605,0.0002891835,0,Justin M. Forcier,398561.00001,2021-06-15,Associate,0,,0.2,590.0,118.0,1,6,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90966760-90966762.json",Normal Range
+9718,0.0002891835,0,Justin M. Forcier,398561.00001,2021-06-15,Associate,0,,0.2,590.0,118.0,1,6,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90966640-90966642.json",Normal Range
+10448,0.0002840428,0,Justin M. Forcier,398561.00001,2021-03-29,Associate,0,,0.8,590.0,472.0,0,3,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90364911-90364912.json",Normal Range
+12150,0.0002840428,0,Justin M. Forcier,398561.00001,2021-03-29,Associate,0,,0.8,590.0,472.0,0,3,0,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90681161-90681162.json",Normal Range
+8963,0.0002840428,0,Justin M. Forcier,398561.00001,2021-03-29,Associate,0,,0.8,590.0,472.0,0,3,0,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90966760-90966764.json",Normal Range
+8125,0.0002840428,0,Justin M. Forcier,398561.00001,2021-03-29,Associate,0,,0.8,590.0,472.0,0,3,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90232209-90232211.json",Normal Range
+11778,0.00028141908,0,Justin M. Forcier,398561.00001,2021-09-02,Associate,0,,0.1,590.0,59.0,3,9,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90966760-90966762.json",Normal Range
+8525,0.00028141908,0,Justin M. Forcier,398561.00001,2021-09-02,Associate,0,,0.1,590.0,59.0,3,9,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90232209-90232211.json",Normal Range
+10917,0.00028141908,0,Justin M. Forcier,398561.00001,2021-09-02,Associate,0,,0.1,590.0,59.0,3,9,0,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90364911-90364912.json",Normal Range
+9899,0.00028141908,0,Justin M. Forcier,398561.00001,2021-09-02,Associate,0,,0.1,590.0,59.0,3,9,0,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90966640-90966642.json",Normal Range
+6802,0.0002800196,0,Sydney Sgovio,58883,2023-12-20,Associate,0,discovery,0.3,600.0,180.0,2,12,0,"da.document.New York State, New York County, Supreme Court_653490_2023_41.json",Normal Range
+2036,0.0002785534,0,George Abney,061536.493969,2017-10-31,Partner,1,pre-trial,0.3,760.0,228.0,1,10,0,"da.document.Florida State, Miami-Dade County, Eleventh Circuit Court_2016-021856-CA-01_Doc-235-Affidavit-for-Atty-Fee-and-Costs.json",Normal Range
+2442,0.00027596316,0,Sydney Sgovio,58883,2023-12-06,Associate,0,discovery,0.4,600.0,240.0,2,12,1,"da.document.New York State, New York County, Supreme Court_653490_2023_38.json",Normal Range
+6772,0.00027596316,0,Sydney Sgovio,58883,2023-12-06,Associate,0,discovery,0.4,600.0,240.0,2,12,1,"da.document.New York State, New York County, Supreme Court_653490_2023_41.json",Normal Range
+1136,0.00026351857,0,George Abney,061536.493969,2018-08-15,Partner,1,post-trial,0.3,795.0,238.5,2,8,0,"da.document.Florida State, Miami-Dade County, Eleventh Circuit Court_2016-021856-CA-01_Doc-233-Notice-Of-Filing-Affidavit-Of-Reasonable-Attorney-Fees.json",Normal Range
+8388,0.00025722972,0,Benjamin P. Chapple,398561.00001,2021-07-01,Associate,0,,0.4,645.0,258.0,3,7,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90232209-90232211.json",Normal Range
+9738,0.00025722972,0,Benjamin P. Chapple,398561.00001,2021-07-01,Associate,0,,0.4,645.0,258.0,3,7,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90966640-90966642.json",Normal Range
+10748,0.00025722972,0,Benjamin P. Chapple,398561.00001,2021-07-01,Associate,0,,0.4,645.0,258.0,3,7,0,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90364911-90364912.json",Normal Range
+11632,0.00025722972,0,Benjamin P. Chapple,398561.00001,2021-07-01,Associate,0,,0.4,645.0,258.0,3,7,0,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90966760-90966762.json",Normal Range
+11242,0.00025472476,0,Justin M. Forcier,398561.00001,2021-02-26,Associate,0,,0.3,590.0,177.0,4,2,0,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90966760-90966762.json",Normal Range
+7992,0.00025472476,0,Justin M. Forcier,398561.00001,2021-02-26,Associate,0,,0.3,590.0,177.0,4,2,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90232209-90232211.json",Normal Range
+10372,0.00025472476,0,Justin M. Forcier,398561.00001,2021-02-26,Associate,0,,0.3,590.0,177.0,4,2,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90364911-90364912.json",Normal Range
+11564,0.00025277957,0,Justin M. Forcier,398561.00001,2021-05-27,Associate,0,,0.2,590.0,118.0,3,5,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90966760-90966762.json",Normal Range
+10679,0.00025277957,0,Justin M. Forcier,398561.00001,2021-05-27,Associate,0,,0.2,590.0,118.0,3,5,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90364911-90364912.json",Normal Range
+9653,0.00025277957,0,Justin M. Forcier,398561.00001,2021-05-27,Associate,0,,0.2,590.0,118.0,3,5,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90966640-90966642.json",Normal Range
+7734,0.00025270766,0,Stephanie Q. Chadick,398561.00001,2020-12-01,Paralegal,0,,0.1,295.0,29.5,1,12,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90232209-90232211.json",Normal Range
+10950,0.00025270766,0,Stephanie Q. Chadick,398561.00001,2020-12-01,Paralegal,0,,0.1,295.0,29.5,1,12,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90966760-90966762.json",Normal Range
+10144,0.00025270766,0,Stephanie Q. Chadick,398561.00001,2020-12-01,Paralegal,0,,0.1,295.0,29.5,1,12,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90364911-90364912.json",Normal Range
+9080,0.00025270766,0,Stephanie Q. Chadick,398561.00001,2020-12-01,Paralegal,0,,0.1,295.0,29.5,1,12,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90966640-90966642.json",Normal Range
+9196,0.0002506909,0,Benjamin P. Chapple,398561.00001,2021-01-22,Associate,0,,0.2,645.0,129.0,4,1,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90966640-90966642.json",Normal Range
+7809,0.0002506909,0,Benjamin P. Chapple,398561.00001,2021-01-22,Associate,0,,0.2,645.0,129.0,4,1,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90232209-90232211.json",Normal Range
+11086,0.0002506909,0,Benjamin P. Chapple,398561.00001,2021-01-22,Associate,0,,0.2,645.0,129.0,4,1,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90966760-90966762.json",Normal Range
+10217,0.0002506909,0,Benjamin P. Chapple,398561.00001,2021-01-22,Associate,0,,0.2,645.0,129.0,4,1,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90364911-90364912.json",Normal Range
+7953,0.00025063785,0,Justin M. Forcier,398561.00001,2021-02-12,Associate,0,,1.2,590.0,708.0,4,2,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90232209-90232211.json",Normal Range
+10309,0.00025063785,0,Justin M. Forcier,398561.00001,2021-02-12,Associate,0,,1.2,590.0,708.0,4,2,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90364911-90364912.json",Normal Range
+11202,0.00025063785,0,Justin M. Forcier,398561.00001,2021-02-12,Associate,0,,1.2,590.0,708.0,4,2,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90966760-90966762.json",Normal Range
+10440,0.00024889514,0,Justin M. Forcier,398561.00001,2021-03-25,Associate,0,,0.4,590.0,236.0,3,3,0,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90364911-90364912.json",Normal Range
+8117,0.00024889514,0,Justin M. Forcier,398561.00001,2021-03-25,Associate,0,,0.4,590.0,236.0,3,3,0,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90232209-90232211.json",Normal Range
+10762,0.0002474927,0,Justin M. Forcier,398561.00001,2021-08-04,Associate,0,,0.4,590.0,236.0,2,8,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90364911-90364912.json",Normal Range
+8442,0.0002474927,0,Justin M. Forcier,398561.00001,2021-08-04,Associate,0,,0.4,590.0,236.0,2,8,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90232209-90232211.json",Normal Range
+11700,0.0002474927,0,Justin M. Forcier,398561.00001,2021-08-04,Associate,0,,0.4,590.0,236.0,2,8,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90966760-90966762.json",Normal Range
+9762,0.0002474927,0,Justin M. Forcier,398561.00001,2021-08-04,Associate,0,,0.4,590.0,236.0,2,8,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90966640-90966642.json",Normal Range
+10611,0.0002464446,0,Stephanie Q. Chadick,398561.00001,2021-05-14,Paralegal,0,,0.3,315.0,94.5,4,5,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90364911-90364912.json",Normal Range
+8302,0.0002464446,0,Stephanie Q. Chadick,398561.00001,2021-05-14,Paralegal,0,,0.3,315.0,94.5,4,5,0,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90232209-90232211.json",Normal Range
+9593,0.0002464446,0,Stephanie Q. Chadick,398561.00001,2021-05-14,Paralegal,0,,0.3,315.0,94.5,4,5,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90966640-90966642.json",Normal Range
+11518,0.0002464446,0,Stephanie Q. Chadick,398561.00001,2021-05-14,Paralegal,0,,0.3,315.0,94.5,4,5,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90966760-90966762.json",Normal Range
+9807,0.0002310855,0,Justin M. Forcier,398561.00001,2021-08-17,Associate,0,,1.5,590.0,885.0,1,8,0,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90966640-90966642.json",Normal Range
+10331,0.0002307025,0,Brian M. Rostocki,398561.00001,2021-02-17,Partner,1,,0.5,795.0,397.5,2,2,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90364911-90364912.json",Normal Range
+11195,0.0002307025,0,Brian M. Rostocki,398561.00001,2021-02-17,Partner,1,,0.5,795.0,397.5,2,2,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90966760-90966762.json",Normal Range
+7966,0.0002307025,0,Brian M. Rostocki,398561.00001,2021-02-17,Partner,1,,0.5,795.0,397.5,2,2,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90232209-90232211.json",Normal Range
+9044,0.00023066737,0,Justin M. Forcier,398561.00001,2021-01-07,Associate,0,,0.5,645.0,322.5,3,1,0,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90966760-90966764.json",Normal Range
+12210,0.00023066737,0,Justin M. Forcier,398561.00001,2021-01-07,Associate,0,,0.5,645.0,322.5,3,1,0,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90681161-90681162.json",Normal Range
+11420,0.0002306451,0,Benjamin P. Chapple,398561.00001,2021-04-23,Associate,0,,0.7,645.0,451.49999999999994,4,4,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90966760-90966762.json",Normal Range
+8208,0.0002306451,0,Benjamin P. Chapple,398561.00001,2021-04-23,Associate,0,,0.7,645.0,451.49999999999994,4,4,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90232209-90232211.json",Normal Range
+9536,0.0002306451,0,Benjamin P. Chapple,398561.00001,2021-04-23,Associate,0,,0.7,645.0,451.49999999999994,4,4,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90966640-90966642.json",Normal Range
+10515,0.0002306451,0,Benjamin P. Chapple,398561.00001,2021-04-23,Associate,0,,0.7,645.0,451.49999999999994,4,4,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90364911-90364912.json",Normal Range
+9705,0.0002200118,0,Justin M. Forcier,398561.00001,2021-06-30,Associate,0,,0.3,590.0,177.0,2,6,0,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90966640-90966642.json",Normal Range
+7977,0.00021807068,0,Benjamin P. Chapple,398561.00001,2021-01-30,Associate,0,,0.1,645.0,64.5,5,1,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90232209-90232211.json",Normal Range
+11113,0.00021807068,0,Benjamin P. Chapple,398561.00001,2021-01-30,Associate,0,,0.1,645.0,64.5,5,1,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90966760-90966762.json",Normal Range
+9227,0.00021807068,0,Benjamin P. Chapple,398561.00001,2021-01-30,Associate,0,,0.1,645.0,64.5,5,1,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90966640-90966642.json",Normal Range
+10235,0.00021807068,0,Benjamin P. Chapple,398561.00001,2021-01-30,Associate,0,,0.1,645.0,64.5,5,1,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90364911-90364912.json",Normal Range
+10434,0.00021339982,0,Benjamin P. Chapple,398561.00001,2021-03-24,Associate,0,,0.1,645.0,64.5,2,3,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90364911-90364912.json",Normal Range
+8965,0.00021339982,0,Benjamin P. Chapple,398561.00001,2021-03-24,Associate,0,,0.1,645.0,64.5,2,3,0,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90966760-90966764.json",Normal Range
+8100,0.00021339982,0,Benjamin P. Chapple,398561.00001,2021-03-24,Associate,0,,0.1,645.0,64.5,2,3,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90232209-90232211.json",Normal Range
+9406,0.00021339982,0,Benjamin P. Chapple,398561.00001,2021-03-24,Associate,0,,0.1,645.0,64.5,2,3,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90966640-90966642.json",Normal Range
+11320,0.00021339982,0,Benjamin P. Chapple,398561.00001,2021-03-24,Associate,0,,0.1,645.0,64.5,2,3,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90966760-90966762.json",Normal Range
+10146,0.00021327374,0,Brian M. Rostocki,398561.00001,2020-12-01,Partner,1,,0.1,745.0,74.5,1,12,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90364911-90364912.json",Normal Range
+7736,0.00021327374,0,Brian M. Rostocki,398561.00001,2020-12-01,Partner,1,,0.1,745.0,74.5,1,12,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90232209-90232211.json",Normal Range
+9082,0.00021327374,0,Brian M. Rostocki,398561.00001,2020-12-01,Partner,1,,0.1,745.0,74.5,1,12,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90966640-90966642.json",Normal Range
+10952,0.00021327374,0,Brian M. Rostocki,398561.00001,2020-12-01,Partner,1,,0.1,745.0,74.5,1,12,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90966760-90966762.json",Normal Range
+4778,0.00021257938,0,Matthew Hooker,555333,2022-10-13,Associate,0,pre-trial,1.4,585.0,819.0,3,10,0,"da.document.New York State, New York County, Supreme Court_654817_2021_161.json",Normal Range
+9571,0.00020386763,0,Stephanie Q. Chadick,398561.00001,2021-05-12,Paralegal,0,,0.2,315.0,63.0,2,5,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90966640-90966642.json",Normal Range
+11478,0.00020386763,0,Stephanie Q. Chadick,398561.00001,2021-05-12,Paralegal,0,,0.2,315.0,63.0,2,5,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90966760-90966762.json",Normal Range
+10619,0.00020386763,0,Stephanie Q. Chadick,398561.00001,2021-05-12,Paralegal,0,,0.2,315.0,63.0,2,5,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90364911-90364912.json",Normal Range
+8291,0.00020386763,0,Stephanie Q. Chadick,398561.00001,2021-05-12,Paralegal,0,,0.2,315.0,63.0,2,5,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90232209-90232211.json",Normal Range
+12070,0.00020386763,0,Stephanie Q. Chadick,398561.00001,2021-05-12,Paralegal,0,,0.2,315.0,63.0,2,5,0,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90681161-90681162.json",Normal Range
+8892,0.00020386763,0,Stephanie Q. Chadick,398561.00001,2021-05-12,Paralegal,0,,0.2,315.0,63.0,2,5,0,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90966760-90966764.json",Normal Range
+9271,0.00020334347,0,Justin M. Forcier,398561.00001,2021-02-05,Associate,0,,0.7,590.0,413.0,4,2,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90966640-90966642.json",Normal Range
+10322,0.00020334347,0,Justin M. Forcier,398561.00001,2021-02-05,Associate,0,,0.7,590.0,413.0,4,2,0,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90364911-90364912.json",Normal Range
+11171,0.00020334347,0,Justin M. Forcier,398561.00001,2021-02-05,Associate,0,,0.7,590.0,413.0,4,2,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90966760-90966762.json",Normal Range
+7899,0.00020334347,0,Justin M. Forcier,398561.00001,2021-02-05,Associate,0,,0.7,590.0,413.0,4,2,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90232209-90232211.json",Normal Range
+11321,0.00020254782,0,Stephanie Q. Chadick,398561.00001,2021-03-24,Paralegal,0,,0.2,315.0,63.0,2,3,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90966760-90966762.json",Normal Range
+9407,0.00020254782,0,Stephanie Q. Chadick,398561.00001,2021-03-24,Paralegal,0,,0.2,315.0,63.0,2,3,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90966640-90966642.json",Normal Range
+8966,0.00020254782,0,Stephanie Q. Chadick,398561.00001,2021-03-24,Paralegal,0,,0.2,315.0,63.0,2,3,0,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90966760-90966764.json",Normal Range
+10435,0.00020254782,0,Stephanie Q. Chadick,398561.00001,2021-03-24,Paralegal,0,,0.2,315.0,63.0,2,3,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90364911-90364912.json",Normal Range
+8101,0.00020254782,0,Stephanie Q. Chadick,398561.00001,2021-03-24,Paralegal,0,,0.2,315.0,63.0,2,3,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90232209-90232211.json",Normal Range
+9095,0.0002015717,0,Benjamin P. Chapple,398561.00001,2021-01-05,Associate,0,,0.1,645.0,64.5,1,1,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90966640-90966642.json",Normal Range
+9094,0.0002015717,0,Benjamin P. Chapple,398561.00001,2021-01-05,Associate,0,,0.1,645.0,64.5,1,1,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90966640-90966642.json",Normal Range
+10998,0.0002015717,0,Benjamin P. Chapple,398561.00001,2021-01-05,Associate,0,,0.1,645.0,64.5,1,1,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90966760-90966762.json",Normal Range
+9092,0.0002015717,0,Benjamin P. Chapple,398561.00001,2021-01-05,Associate,0,,0.1,645.0,64.5,1,1,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90966640-90966642.json",Normal Range
+9006,0.0002015717,0,Benjamin P. Chapple,398561.00001,2021-01-05,Associate,0,,0.1,645.0,64.5,1,1,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90966760-90966764.json",Normal Range
+9008,0.0002015717,0,Benjamin P. Chapple,398561.00001,2021-01-05,Associate,0,,0.1,645.0,64.5,1,1,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90966760-90966764.json",Normal Range
+10999,0.0002015717,0,Benjamin P. Chapple,398561.00001,2021-01-05,Associate,0,,0.1,645.0,64.5,1,1,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90966760-90966762.json",Normal Range
+10136,0.0002015717,0,Benjamin P. Chapple,398561.00001,2021-01-05,Associate,0,,0.1,645.0,64.5,1,1,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90364911-90364912.json",Normal Range
+10996,0.0002015717,0,Benjamin P. Chapple,398561.00001,2021-01-05,Associate,0,,0.1,645.0,64.5,1,1,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90966760-90966762.json",Normal Range
+10139,0.0002015717,0,Benjamin P. Chapple,398561.00001,2021-01-05,Associate,0,,0.1,645.0,64.5,1,1,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90364911-90364912.json",Normal Range
+7791,0.0002015717,0,Benjamin P. Chapple,398561.00001,2021-01-05,Associate,0,,0.1,645.0,64.5,1,1,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90232209-90232211.json",Normal Range
+7793,0.0002015717,0,Benjamin P. Chapple,398561.00001,2021-01-05,Associate,0,,0.1,645.0,64.5,1,1,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90232209-90232211.json",Normal Range
+12202,0.0002015717,0,Benjamin P. Chapple,398561.00001,2021-01-05,Associate,0,,0.1,645.0,64.5,1,1,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90681161-90681162.json",Normal Range
+12201,0.0002015717,0,Benjamin P. Chapple,398561.00001,2021-01-05,Associate,0,,0.1,645.0,64.5,1,1,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90681161-90681162.json",Normal Range
+7794,0.0002015717,0,Benjamin P. Chapple,398561.00001,2021-01-05,Associate,0,,0.1,645.0,64.5,1,1,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90232209-90232211.json",Normal Range
+12199,0.0002015717,0,Benjamin P. Chapple,398561.00001,2021-01-05,Associate,0,,0.1,645.0,64.5,1,1,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90681161-90681162.json",Normal Range
+9009,0.0002015717,0,Benjamin P. Chapple,398561.00001,2021-01-05,Associate,0,,0.1,645.0,64.5,1,1,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90966760-90966764.json",Normal Range
+10138,0.0002015717,0,Benjamin P. Chapple,398561.00001,2021-01-05,Associate,0,,0.1,645.0,64.5,1,1,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90364911-90364912.json",Normal Range
+10153,0.00019659437,0,Justin M. Forcier,398561.00001,2021-01-06,Associate,0,,1.0,590.0,590.0,2,1,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90364911-90364912.json",Normal Range
+9036,0.00019659437,0,Justin M. Forcier,398561.00001,2021-01-06,Associate,0,,1.0,590.0,590.0,2,1,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90966760-90966764.json",Normal Range
+11003,0.00019659437,0,Justin M. Forcier,398561.00001,2021-01-06,Associate,0,,1.0,590.0,590.0,2,1,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90966760-90966762.json",Normal Range
+7764,0.00019659437,0,Justin M. Forcier,398561.00001,2021-01-06,Associate,0,,1.0,590.0,590.0,2,1,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90232209-90232211.json",Normal Range
+9122,0.00019659437,0,Justin M. Forcier,398561.00001,2021-01-06,Associate,0,,1.0,590.0,590.0,2,1,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90966640-90966642.json",Normal Range
+9355,0.00019590961,0,Justin M. Forcier,398561.00001,2021-03-09,Associate,0,,0.1,590.0,59.0,1,3,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90966640-90966642.json",Normal Range
+11259,0.00019590961,0,Justin M. Forcier,398561.00001,2021-03-09,Associate,0,,0.1,590.0,59.0,1,3,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90966760-90966762.json",Normal Range
+8046,0.00019590961,0,Justin M. Forcier,398561.00001,2021-03-09,Associate,0,,0.1,590.0,59.0,1,3,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90232209-90232211.json",Normal Range
+10392,0.00019590961,0,Justin M. Forcier,398561.00001,2021-03-09,Associate,0,,0.1,590.0,59.0,1,3,0,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90364911-90364912.json",Normal Range
+9118,0.00019518528,0,Brian M. Rostocki,398561.00001,2020-12-29,Partner,1,,0.2,745.0,149.0,1,12,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90966640-90966642.json",Normal Range
+8999,0.00019518528,0,Brian M. Rostocki,398561.00001,2020-12-29,Partner,1,,0.2,745.0,149.0,1,12,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90966760-90966764.json",Normal Range
+12192,0.00019518528,0,Brian M. Rostocki,398561.00001,2020-12-29,Partner,1,,0.2,745.0,149.0,1,12,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90681161-90681162.json",Normal Range
+10989,0.00019518528,0,Brian M. Rostocki,398561.00001,2020-12-29,Partner,1,,0.2,745.0,149.0,1,12,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90966760-90966762.json",Normal Range
+7747,0.00019518528,0,Brian M. Rostocki,398561.00001,2020-12-29,Partner,1,,0.2,745.0,149.0,1,12,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90232209-90232211.json",Normal Range
+10129,0.00019518528,0,Brian M. Rostocki,398561.00001,2020-12-29,Partner,1,,0.2,745.0,149.0,1,12,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90364911-90364912.json",Normal Range
+10727,0.00019485777,0,Justin M. Forcier,398561.00001,2021-06-23,Associate,0,,1.0,590.0,590.0,2,6,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90364911-90364912.json",Normal Range
+9700,0.00019485777,0,Justin M. Forcier,398561.00001,2021-06-23,Associate,0,,1.0,590.0,590.0,2,6,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90966640-90966642.json",Normal Range
+9529,0.00018883699,0,Justin M. Forcier,398561.00001,2021-04-28,Associate,0,,1.2,590.0,708.0,2,4,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90966640-90966642.json",Normal Range
+11435,0.00018883699,0,Justin M. Forcier,398561.00001,2021-04-28,Associate,0,,1.2,590.0,708.0,2,4,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90966760-90966762.json",Normal Range
+8254,0.00018883699,0,Justin M. Forcier,398561.00001,2021-04-28,Associate,0,,1.2,590.0,708.0,2,4,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90232209-90232211.json",Normal Range
+10600,0.00018883699,0,Justin M. Forcier,398561.00001,2021-04-28,Associate,0,,1.2,590.0,708.0,2,4,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90364911-90364912.json",Normal Range
+8967,0.00018841206,0,Justin M. Forcier,398561.00001,2021-03-25,Associate,0,,2.3,590.0,1357.0,3,3,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90966760-90966764.json",Normal Range
+11324,0.00018841206,0,Justin M. Forcier,398561.00001,2021-03-25,Associate,0,,2.3,590.0,1357.0,3,3,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90966760-90966762.json",Normal Range
+8104,0.00018841206,0,Justin M. Forcier,398561.00001,2021-03-25,Associate,0,,2.3,590.0,1357.0,3,3,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90232209-90232211.json",Normal Range
+10438,0.00018841206,0,Justin M. Forcier,398561.00001,2021-03-25,Associate,0,,2.3,590.0,1357.0,3,3,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90364911-90364912.json",Normal Range
+9411,0.00018841206,0,Justin M. Forcier,398561.00001,2021-03-25,Associate,0,,2.3,590.0,1357.0,3,3,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90966640-90966642.json",Normal Range
+11553,0.0001851616,0,Justin M. Forcier,398561.00001,2021-05-21,Associate,0,,0.1,590.0,59.0,4,5,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90966760-90966762.json",Normal Range
+11552,0.0001851616,0,Justin M. Forcier,398561.00001,2021-05-21,Associate,0,,0.1,590.0,59.0,4,5,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90966760-90966762.json",Normal Range
+10692,0.0001851616,0,Justin M. Forcier,398561.00001,2021-05-21,Associate,0,,0.1,590.0,59.0,4,5,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90364911-90364912.json",Normal Range
+10691,0.0001851616,0,Justin M. Forcier,398561.00001,2021-05-21,Associate,0,,0.1,590.0,59.0,4,5,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90364911-90364912.json",Normal Range
+9659,0.0001851616,0,Justin M. Forcier,398561.00001,2021-05-21,Associate,0,,0.1,590.0,59.0,4,5,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90966640-90966642.json",Normal Range
+9658,0.0001851616,0,Justin M. Forcier,398561.00001,2021-05-21,Associate,0,,0.1,590.0,59.0,4,5,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90966640-90966642.json",Normal Range
+6625,0.00017439568,0,Sydney Sgovio,58883,2023-11-30,Associate,0,discovery,0.3,600.0,180.0,3,11,1,"da.document.New York State, New York County, Supreme Court_653490_2023_41.json",Normal Range
+2264,0.00017439568,0,Sydney Sgovio,58883,2023-11-30,Associate,0,discovery,0.3,600.0,180.0,3,11,1,"da.document.New York State, New York County, Supreme Court_653490_2023_38.json",Normal Range
+9646,0.00017174418,0,Benjamin P. Chapple,398561.00001,2021-05-26,Associate,0,,0.2,645.0,129.0,2,5,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90966640-90966642.json",Normal Range
+11557,0.00017174418,0,Benjamin P. Chapple,398561.00001,2021-05-26,Associate,0,,0.2,645.0,129.0,2,5,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90966760-90966762.json",Normal Range
+10672,0.00017174418,0,Benjamin P. Chapple,398561.00001,2021-05-26,Associate,0,,0.2,645.0,129.0,2,5,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90364911-90364912.json",Normal Range
+12094,0.00017174418,0,Benjamin P. Chapple,398561.00001,2021-05-26,Associate,0,,0.2,645.0,129.0,2,5,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90681161-90681162.json",Normal Range
+8864,0.00017174418,0,Benjamin P. Chapple,398561.00001,2021-05-26,Associate,0,,0.2,645.0,129.0,2,5,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90966760-90966764.json",Normal Range
+8012,0.00017167375,0,Brian M. Rostocki,398561.00001,2021-02-19,Partner,1,,0.5,795.0,397.5,4,2,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90232209-90232211.json",Normal Range
+9315,0.00017167375,0,Brian M. Rostocki,398561.00001,2021-02-19,Partner,1,,0.5,795.0,397.5,4,2,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90966640-90966642.json",Normal Range
+10377,0.00017167375,0,Brian M. Rostocki,398561.00001,2021-02-19,Partner,1,,0.5,795.0,397.5,4,2,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90364911-90364912.json",Normal Range
+11211,0.00017167375,0,Brian M. Rostocki,398561.00001,2021-02-19,Partner,1,,0.5,795.0,397.5,4,2,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90966760-90966762.json",Normal Range
+1169,0.00016094022,0,George Abney,061536.493969,2019-02-04,Partner,1,post-trial,0.4,795.0,318.0,0,2,0,"da.document.Florida State, Miami-Dade County, Eleventh Circuit Court_2016-021856-CA-01_Doc-233-Notice-Of-Filing-Affidavit-Of-Reasonable-Attorney-Fees.json",Normal Range
+2080,0.00016094022,0,George Abney,061536.493969,2019-02-04,Partner,1,post-trial,0.4,795.0,318.0,0,2,0,"da.document.Florida State, Miami-Dade County, Eleventh Circuit Court_2016-021856-CA-01_Doc-235-Affidavit-for-Atty-Fee-and-Costs.json",Normal Range
+11368,0.00015528448,0,Benjamin P. Chapple,398561.00001,2021-04-13,Associate,0,,0.2,645.0,129.0,1,4,0,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90966760-90966762.json",Normal Range
+10451,0.0001505907,0,Justin M. Forcier,398561.00001,2021-03-30,Associate,0,,0.3,590.0,177.0,1,3,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90364911-90364912.json",Normal Range
+11396,0.0001505907,0,Justin M. Forcier,398561.00001,2021-03-30,Associate,0,,0.3,590.0,177.0,1,3,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90966760-90966762.json",Normal Range
+9413,0.0001505907,0,Justin M. Forcier,398561.00001,2021-03-30,Associate,0,,0.3,590.0,177.0,1,3,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90966640-90966642.json",Normal Range
+8106,0.0001505907,0,Justin M. Forcier,398561.00001,2021-03-30,Associate,0,,0.3,590.0,177.0,1,3,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90232209-90232211.json",Normal Range
+2030,0.00014350965,0,Eric Schnapp,061536.493969,2017-10-25,Associate,0,pre-trial,0.5,585.0,292.5,2,10,0,"da.document.Florida State, Miami-Dade County, Eleventh Circuit Court_2016-021856-CA-01_Doc-235-Affidavit-for-Atty-Fee-and-Costs.json",Normal Range
+7906,0.00014321014,0,Benjamin P. Chapple,398561.00001,2021-02-03,Associate,0,,0.1,645.0,64.5,2,2,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90232209-90232211.json",Normal Range
+10261,0.00014321014,0,Benjamin P. Chapple,398561.00001,2021-02-03,Associate,0,,0.1,645.0,64.5,2,2,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90364911-90364912.json",Normal Range
+11127,0.00014321014,0,Benjamin P. Chapple,398561.00001,2021-02-03,Associate,0,,0.1,645.0,64.5,2,2,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90966760-90966762.json",Normal Range
+9250,0.00014321014,0,Benjamin P. Chapple,398561.00001,2021-02-03,Associate,0,,0.1,645.0,64.5,2,2,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90966640-90966642.json",Normal Range
+8035,0.00013749792,0,Justin M. Forcier,398561.00001,2021-03-12,Associate,0,,0.3,590.0,177.0,4,3,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90232209-90232211.json",Normal Range
+10399,0.00013749792,0,Justin M. Forcier,398561.00001,2021-03-12,Associate,0,,0.3,590.0,177.0,4,3,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90364911-90364912.json",Normal Range
+9344,0.00013749792,0,Justin M. Forcier,398561.00001,2021-03-12,Associate,0,,0.3,590.0,177.0,4,3,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90966640-90966642.json",Normal Range
+11273,0.00013749792,0,Justin M. Forcier,398561.00001,2021-03-12,Associate,0,,0.3,590.0,177.0,4,3,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90966760-90966762.json",Normal Range
+10475,0.00012268202,0,Justin M. Forcier,398561.00001,2021-04-08,Associate,0,,1.0,590.0,590.0,3,4,0,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90364911-90364912.json",Normal Range
+9435,0.00012268202,0,Justin M. Forcier,398561.00001,2021-04-08,Associate,0,,1.0,590.0,590.0,3,4,0,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90966640-90966642.json",Normal Range
+11349,0.00012268202,0,Justin M. Forcier,398561.00001,2021-04-08,Associate,0,,1.0,590.0,590.0,3,4,0,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90966760-90966762.json",Normal Range
+9640,0.00011782799,0,Benjamin P. Chapple,398561.00001,2021-05-25,Associate,0,,0.5,645.0,322.5,1,5,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90966640-90966642.json",Normal Range
+8343,0.00011782799,0,Benjamin P. Chapple,398561.00001,2021-05-25,Associate,0,,0.5,645.0,322.5,1,5,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90232209-90232211.json",Normal Range
+10657,0.00011782799,0,Benjamin P. Chapple,398561.00001,2021-05-25,Associate,0,,0.5,645.0,322.5,1,5,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90364911-90364912.json",Normal Range
+11525,0.00011782799,0,Benjamin P. Chapple,398561.00001,2021-05-25,Associate,0,,0.5,645.0,322.5,1,5,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90966760-90966762.json",Normal Range
+10242,0.00011710968,0,Justin M. Forcier,398561.00001,2021-02-01,Associate,0,,0.1,590.0,59.0,0,2,0,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90364911-90364912.json",Normal Range
+8278,0.00010914917,0,Justin M. Forcier,398561.00001,2021-05-17,Associate,0,,0.1,590.0,59.0,0,5,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90232209-90232211.json",Normal Range
+11502,0.00010914917,0,Justin M. Forcier,398561.00001,2021-05-17,Associate,0,,0.1,590.0,59.0,0,5,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90966760-90966762.json",Normal Range
+8189,0.00010914917,0,Justin M. Forcier,398561.00001,2021-05-03,Associate,0,,0.1,590.0,59.0,0,5,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90232209-90232211.json",Normal Range
+10642,0.00010914917,0,Justin M. Forcier,398561.00001,2021-05-17,Associate,0,,0.1,590.0,59.0,0,5,0,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90364911-90364912.json",Normal Range
+10549,0.00010914917,0,Justin M. Forcier,398561.00001,2021-05-03,Associate,0,,0.1,590.0,59.0,0,5,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90364911-90364912.json",Normal Range
+11213,0.00010455302,0,Stephanie Q. Chadick,398561.00001,2021-02-22,Paralegal,0,,0.2,315.0,63.0,0,2,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90966760-90966762.json",Normal Range
+10379,0.00010455302,0,Stephanie Q. Chadick,398561.00001,2021-02-22,Paralegal,0,,0.2,315.0,63.0,0,2,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90364911-90364912.json",Normal Range
+8014,0.00010455302,0,Stephanie Q. Chadick,398561.00001,2021-02-22,Paralegal,0,,0.2,315.0,63.0,0,2,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90232209-90232211.json",Normal Range
+9317,0.00010455302,0,Stephanie Q. Chadick,398561.00001,2021-02-22,Paralegal,0,,0.2,315.0,63.0,0,2,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90966640-90966642.json",Normal Range
+9751,0.00010437974,0,Benjamin P. Chapple,398561.00001,2021-07-26,Associate,0,,0.1,645.0,64.5,0,7,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90966640-90966642.json",Normal Range
+10799,0.00010437974,0,Benjamin P. Chapple,398561.00001,2021-07-26,Associate,0,,0.1,645.0,64.5,0,7,0,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90364911-90364912.json",Normal Range
+11645,0.00010437974,0,Benjamin P. Chapple,398561.00001,2021-07-26,Associate,0,,0.1,645.0,64.5,0,7,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90966760-90966762.json",Normal Range
+8277,9.6766664e-05,0,Justin M. Forcier,398561.00001,2021-05-17,Associate,0,,0.3,590.0,177.0,0,5,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90232209-90232211.json",Normal Range
+10641,9.6766664e-05,0,Justin M. Forcier,398561.00001,2021-05-17,Associate,0,,0.3,590.0,177.0,0,5,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90364911-90364912.json",Normal Range
+11501,9.6766664e-05,0,Justin M. Forcier,398561.00001,2021-05-17,Associate,0,,0.3,590.0,177.0,0,5,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90966760-90966762.json",Normal Range
+10404,9.251334e-05,0,Stephanie Q. Chadick,398561.00001,2021-03-19,Paralegal,0,,0.2,315.0,63.0,4,3,0,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90364911-90364912.json",Normal Range
+8929,9.251334e-05,0,Stephanie Q. Chadick,398561.00001,2021-03-19,Paralegal,0,,0.2,315.0,63.0,4,3,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90966760-90966764.json",Normal Range
+12124,9.251334e-05,0,Stephanie Q. Chadick,398561.00001,2021-03-19,Paralegal,0,,0.2,315.0,63.0,4,3,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90681161-90681162.json",Normal Range
+8048,9.251334e-05,0,Stephanie Q. Chadick,398561.00001,2021-03-19,Paralegal,0,,0.2,315.0,63.0,4,3,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90232209-90232211.json",Normal Range
+9375,9.251334e-05,0,Stephanie Q. Chadick,398561.00001,2021-03-19,Paralegal,0,,0.2,315.0,63.0,4,3,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90966640-90966642.json",Normal Range
+9233,8.2620856e-05,0,Benjamin P. Chapple,398561.00001,2021-02-01,Associate,0,,0.3,645.0,193.5,0,2,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90966640-90966642.json",Normal Range
+7889,8.2620856e-05,0,Benjamin P. Chapple,398561.00001,2021-02-01,Associate,0,,0.3,645.0,193.5,0,2,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90232209-90232211.json",Normal Range
+10241,8.2620856e-05,0,Benjamin P. Chapple,398561.00001,2021-02-01,Associate,0,,0.3,645.0,193.5,0,2,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90364911-90364912.json",Normal Range
+11119,8.2620856e-05,0,Benjamin P. Chapple,398561.00001,2021-02-01,Associate,0,,0.3,645.0,193.5,0,2,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90966760-90966762.json",Normal Range
+11216,7.836589e-05,0,Benjamin P. Chapple,398561.00001,2021-02-22,Associate,0,,0.1,645.0,64.5,0,2,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90966760-90966762.json",Normal Range
+10382,7.836589e-05,0,Benjamin P. Chapple,398561.00001,2021-02-22,Associate,0,,0.1,645.0,64.5,0,2,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90364911-90364912.json",Normal Range
+8017,7.836589e-05,0,Benjamin P. Chapple,398561.00001,2021-02-22,Associate,0,,0.1,645.0,64.5,0,2,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90232209-90232211.json",Normal Range
+11215,7.836589e-05,0,Benjamin P. Chapple,398561.00001,2021-02-22,Associate,0,,0.1,645.0,64.5,0,2,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90966760-90966762.json",Normal Range
+10381,7.836589e-05,0,Benjamin P. Chapple,398561.00001,2021-02-22,Associate,0,,0.1,645.0,64.5,0,2,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90364911-90364912.json",Normal Range
+9320,7.836589e-05,0,Benjamin P. Chapple,398561.00001,2021-02-22,Associate,0,,0.1,645.0,64.5,0,2,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90966640-90966642.json",Normal Range
+8016,7.836589e-05,0,Benjamin P. Chapple,398561.00001,2021-02-22,Associate,0,,0.1,645.0,64.5,0,2,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90232209-90232211.json",Normal Range
+9319,7.836589e-05,0,Benjamin P. Chapple,398561.00001,2021-02-22,Associate,0,,0.1,645.0,64.5,0,2,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90966640-90966642.json",Normal Range
+9277,7.796545e-05,0,Benjamin P. Chapple,398561.00001,2021-02-08,Associate,0,,0.2,645.0,129.0,0,2,0,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90966640-90966642.json",Normal Range
+8976,7.796545e-05,0,Benjamin P. Chapple,398561.00001,2021-02-08,Associate,0,,0.2,645.0,129.0,0,2,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90966760-90966764.json",Normal Range
+10284,7.796545e-05,0,Benjamin P. Chapple,398561.00001,2021-02-08,Associate,0,,0.2,645.0,129.0,0,2,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90364911-90364912.json",Normal Range
+11143,7.796545e-05,0,Benjamin P. Chapple,398561.00001,2021-02-08,Associate,0,,0.2,645.0,129.0,0,2,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90966760-90966762.json",Normal Range
+11335,6.750771e-05,0,Benjamin P. Chapple,398561.00001,2021-04-05,Associate,0,,0.1,645.0,64.5,0,4,0,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90966760-90966762.json",Normal Range
+9652,4.9368704e-05,0,Benjamin P. Chapple,398561.00001,2021-05-27,Associate,0,,0.1,645.0,64.5,3,5,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90966640-90966642.json",Normal Range
+10678,4.9368704e-05,0,Benjamin P. Chapple,398561.00001,2021-05-27,Associate,0,,0.1,645.0,64.5,3,5,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90364911-90364912.json",Normal Range
+11563,4.9368704e-05,0,Benjamin P. Chapple,398561.00001,2021-05-27,Associate,0,,0.1,645.0,64.5,3,5,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90966760-90966762.json",Normal Range

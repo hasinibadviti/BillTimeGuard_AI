@@ -1,0 +1,30 @@
+EntryID,AnomalyScore,PredictedAnomaly,Timekeeper,Matter,Date,Position,Partner,PhaseName,EntryDurationHours,Rate,BilledAmount,DayOfWeek,Month,RepeatedEntryFlag,SourceDocumentName,AnomalyStatus
+1595,0.057788435,1,Connor K. Purks,201700893,2017-02-28,Technical Specialist,0,pleading,2.8,180.0,503.99999999999994,1,2,0,da.document.North Carolina Middle District Court_1_17-cv-00687_No. 369-2.json,Potential Anomaly
+10833,0.038597435,1,Erin N. Larimer,398561.00001,2021-08-17,E-Discovery Attorney,0,,1.5,590.0,885.0,1,8,0,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90364911-90364912.json",Potential Anomaly
+6726,0.018207978,1,Reyko E. Delpino,58883,2023-10-16,Paralegal,0,discovery,0.3,1000.0,300.0,0,10,0,"da.document.New York State, New York County, Supreme Court_653490_2023_41.json",Potential Anomaly
+4069,0.0108296145,1,Joanna Schorr,555333,2021-02-01,Senior Associate,0,,0.4,725.0,290.0,0,2,1,"da.document.New York State, New York County, Supreme Court_654817_2021_161.json",Potential Anomaly
+5893,0.0108296145,1,Joanna Schorr,555333,2021-02-01,Senior Associate,0,,0.4,725.0,290.0,0,2,1,"da.document.New York State, New York County, Supreme Court_654817_2021_153.json",Potential Anomaly
+5127,0.008122332,1,Joanna Schorr,555333,2021-11-18,Senior Associate,0,discovery,13.5,725.0,9787.5,3,11,1,"da.document.New York State, New York County, Supreme Court_654817_2021_160.json",Potential Anomaly
+5984,0.008122332,1,Joanna Schorr,555333,2021-11-18,Senior Associate,0,discovery,13.5,725.0,9787.5,3,11,1,"da.document.New York State, New York County, Supreme Court_654817_2021_153.json",Potential Anomaly
+6923,0.007437201,1,Teresa Barrera,58883.00424,2024-01-24,Paralegal,0,discovery,1.4,511.0,715.4,2,1,0,"da.document.New York State, New York County, Supreme Court_653490_2023_41.json",Potential Anomaly
+1160,0.0066382615,1,Michael Barry,061536.493969,2018-07-27,Senior Associate,0,post-trial,7.8,615.0,4797.0,4,7,0,"da.document.Florida State, Miami-Dade County, Eleventh Circuit Court_2016-021856-CA-01_Doc-233-Notice-Of-Filing-Affidavit-Of-Reasonable-Attorney-Fees.json",Potential Anomaly
+2196,0.0064892597,1,B. T. Carney,101362.0001,2020-07-06,Partner,1,,0.4,1350.0,540.0,0,7,0,"da.document.Delaware State, Court of Chancery_2019-0743_No. 86510655-86510657.json",Potential Anomaly
+11729,0.006272227,1,Clarissa C. Sarmiento,398561.00001,2021-08-19,Attorney,0,,9.3,190.0,1767.0000000000002,3,8,0,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90966760-90966762.json",Potential Anomaly
+11496,0.0042728493,1,B. C. Lehman,398561.00001,2021-05-16,,0,,3.2,495.0,1584.0,6,5,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90966760-90966762.json",Potential Anomaly
+10636,0.0042728493,1,B. C. Lehman,398561.00001,2021-05-16,,0,,3.2,495.0,1584.0,6,5,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90364911-90364912.json",Potential Anomaly
+9601,0.0042728493,1,B. C. Lehman,398561.00001,2021-05-16,,0,,3.2,495.0,1584.0,6,5,0,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90966640-90966642.json",Potential Anomaly
+8272,0.0042728493,1,B. C. Lehman,398561.00001,2021-05-16,,0,,3.2,495.0,1584.0,6,5,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90232209-90232211.json",Potential Anomaly
+12090,0.0042728493,1,B. C. Lehman,398561.00001,2021-05-16,,0,,3.2,495.0,1584.0,6,5,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90681161-90681162.json",Potential Anomaly
+6748,0.003935291,1,Teresa Barrera,58883,2023-12-07,Paralegal,0,discovery,3.1,365.0,1131.5,3,12,0,"da.document.New York State, New York County, Supreme Court_653490_2023_41.json",Potential Anomaly
+6698,0.0037397216,1,Reyko E. Delpino,58883,2023-10-27,Paralegal,0,discovery,0.4,445.0,178.0,4,10,1,"da.document.New York State, New York County, Supreme Court_653490_2023_41.json",Potential Anomaly
+2351,0.0037397216,1,Reyko E. Delpino,58883,2023-10-27,Paralegal,0,discovery,0.4,445.0,178.0,4,10,1,"da.document.New York State, New York County, Supreme Court_653490_2023_38.json",Potential Anomaly
+6908,0.0036184646,1,Ashley B. Akapo,,2024-01-18,,0,discovery,2.1,360.0,756.0,3,1,0,"da.document.New York State, New York County, Supreme Court_653490_2023_41.json",Potential Anomaly
+1875,0.003304214,1,Peter D. Siddoway,201700893,2020-01-17,Partner,1,pre-trial,7.0,440.0,3080.0,4,1,0,da.document.North Carolina Middle District Court_1_17-cv-00687_No. 369-2.json,Potential Anomaly
+8027,0.0030110013,1,Jonathan P. Matthews,398561.00001,2021-02-19,Litigation Technology Services Analyst,0,,0.5,475.0,237.5,4,2,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90232209-90232211.json",Potential Anomaly
+11226,0.0030110013,1,Jonathan P. Matthews,398561.00001,2021-02-19,Litigation Technology Services Analyst,0,,0.5,475.0,237.5,4,2,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90966760-90966762.json",Potential Anomaly
+10348,0.0030110013,1,Jonathan P. Matthews,398561.00001,2021-02-19,Litigation Technology Services Analyst,0,,0.5,475.0,237.5,4,2,1,"da.document.Delaware State, Court of Chancery_2022-1059_No. 90364911-90364912.json",Potential Anomaly
+1854,0.002937339,1,Lynne A. Borchers,201700893,2019-08-31,Partner,1,pre-trial,0.2,440.0,88.0,5,8,0,da.document.North Carolina Middle District Court_1_17-cv-00687_No. 369-2.json,Potential Anomaly
+2375,0.0029165803,1,Donald David,58883,2023-10-09,Partner,1,discovery,0.7,445.0,311.5,0,10,1,"da.document.New York State, New York County, Supreme Court_653490_2023_38.json",Potential Anomaly
+6720,0.0029165803,1,Donald David,58883,2023-10-09,Partner,1,discovery,0.7,445.0,311.5,0,10,1,"da.document.New York State, New York County, Supreme Court_653490_2023_41.json",Potential Anomaly
+6485,0.0029165521,1,Brett Jaffe,555333,2022-07-11,Partner,1,discovery,15.7,850.0,13345.0,0,7,0,"da.document.New York State, New York County, Supreme Court_654817_2021_153.json",Potential Anomaly
+4652,0.0029165521,1,Brett Jaffe,555333,2022-07-11,Partner,1,discovery,15.7,850.0,13345.0,0,7,0,"da.document.New York State, New York County, Supreme Court_654817_2021_161.json",Potential Anomaly

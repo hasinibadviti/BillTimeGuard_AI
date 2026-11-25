@@ -1,0 +1,8 @@
+Metric,Value
+Total modified records,602.0
+Original flagged records,29.0
+Modified flagged records,583.0
+Records with increased scores,599.0
+Average original error,0.0009844653541222215
+Average simulated error,0.09352090209722519
+Average score increase,0.09253644198179245

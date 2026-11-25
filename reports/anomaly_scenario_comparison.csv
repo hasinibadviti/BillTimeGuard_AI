@@ -1,0 +1,5 @@
+Scenario,Average Anomaly Score,Flagged Records,Detection Rate (%)
+Original,0.0009844654,29,4.817275747508306
+Rate Only,0.08189138,581,96.51162790697676
+Duration Only,0.0055764727,112,18.6046511627907
+Combined,0.0935209,583,96.843853820598
